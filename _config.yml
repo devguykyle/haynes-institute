@@ -1,0 +1,41 @@
+title: The Haynes Institute
+description: A simple archive and study house for theology, American history, and classical education.
+url: ""
+baseurl: ""
+
+markdown: kramdown
+permalink: pretty
+
+collections:
+  resources:
+    output: true
+    permalink: /resources/:name/
+  guides:
+    output: true
+    permalink: /guides/:name/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: resources
+    values:
+      layout: resource
+  - scope:
+      path: ""
+      type: guides
+    values:
+      layout: page
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - market_research_for_haynes.md
