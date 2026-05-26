@@ -1,7 +1,7 @@
 title: The Haynes Institute
-description: A simple archive and study house for theology, American history, and classical education.
-url: ""
-baseurl: ""
+description: A simple archive and study house for Theology, American history, and classical education.
+url: "https://devguykyle.github.io"
+baseurl: "/haynes-institute"
 
 markdown: kramdown
 permalink: pretty
