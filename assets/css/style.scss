@@ -181,6 +181,7 @@ a {
 
 .feature-grid article,
 .guide-card,
+.article-card,
 .resource-index__item,
 .source-list__item {
   background: var(--panel);
@@ -194,6 +195,7 @@ a {
 .feature-grid h3,
 .guide-card h3,
 .guide-card h2,
+.article-card h3,
 .resource-index__item h2 {
   font-family: var(--serif);
   margin: 0 0 10px;
@@ -201,6 +203,7 @@ a {
 
 .feature-grid p,
 .guide-card p,
+.article-card p,
 .resource-index__item p,
 .page-content p,
 .page-content li {
@@ -214,6 +217,37 @@ a {
   display: grid;
   gap: clamp(28px, 5vw, 64px);
   grid-template-columns: minmax(0, 0.9fr) minmax(280px, 1.1fr);
+}
+
+.section--accent {
+  background: var(--green);
+  color: var(--panel);
+}
+
+.section--accent .eyebrow {
+  color: #f0c05a;
+}
+
+.section--accent h2 {
+  max-width: 760px;
+}
+
+.article-card {
+  border-color: rgba(255, 253, 248, 0.28);
+  max-width: 760px;
+}
+
+.article-card span {
+  color: var(--red);
+  display: block;
+  font-size: 0.78rem;
+  font-weight: 800;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+}
+
+.article-card h3 {
+  font-size: clamp(1.6rem, 3vw, 2.4rem);
 }
 
 .source-list {
