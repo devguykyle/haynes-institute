@@ -4,7 +4,7 @@ category: Sermon Excerpt
 author: Lemuel Haynes
 date_text: From "Saturday Evening Sermon"
 status: Transcribed excerpt
-summary: Lemuel Haynes teaches that regeneration is the immediate work of the Holy Spirit, producing faith, repentance, love to God, holy obedience, and hope in the kingdom of God.
+summary: Lemuel Haynes on the agency of the Holy Spirit in regeneration, the fruits of the new birth, and the necessity of being born again.
 featured: true
 topics:
   - Regeneration
@@ -15,94 +15,48 @@ topics:
 
 ## Attribution
 
-This article is adapted from a portion of Lemuel Haynes' "Saturday Evening Sermon," commonly identified here by the section title "The Nature of Regeneration." The excerpt is presented for study with light formatting, headings, and paragraphing for readability.
+The following excerpt is from Lemuel Haynes' "Saturday Evening Sermon," under the section commonly titled "The Nature of Regeneration." It is presented here as a reading text with paragraphing for clarity.
 
-## The Agent of Regeneration
+# The Nature of Regeneration
 
-Haynes begins by asking who effects this great work. If mankind is, by nature, in the state already described, the answer cannot be long in doubt. Regeneration is too great a work to attribute to men or angels. None but the One who spoke all nature into existence can triumph over the opposition of the human heart.
+I would consider the agent, or who it is that effects this great work. And if we consider that state that mankind is in by nature, as has been described above, we need not stand long to know who to attribute this work to. It is a work too great to attribute to men or angels to accomplish. None but he who, by one word's speaking, spake all nature into existence, can triumph over the opposition of the heart. This is the work of the Holy Spirit, who is represented in Scripture as emanating from the Father and the Son, yet coequal with them both. It is God alone who slays the native enmity of the heart--who takes away those evil dispositions that govern the man--takes away the heart of stone and gives a soft heart--and makes him that was a hater of God, an enemy to God, to become friendly to his divine character.
 
-This is the work of the Holy Spirit, who is represented in Scripture as proceeding from the Father and the Son, yet coequal with them both. God alone slays the native enmity of the heart. God takes away evil dispositions, removes the heart of stone, gives a soft heart, and makes the one who hated God become friendly to his divine character.
+This is not wrought by any efficiency of man or by any external motives or by any light let into the understanding, but of God. Hence we read that those who receive Christ are "born, not of blood, nor of the will of the flesh, nor of the will of man, but of God" (John 1:13). And that it is the gift of God (Eph. 2:8). Also that it is God which worketh in us (Phil. 2:13).
 
-This change is not wrought by human efficiency, external motives, or light let into the understanding alone, but by God. Those who receive Christ are "born, not of blood, nor of the will of the flesh, nor of the will of man, but of God" (John 1:13). Salvation is the gift of God (Ephesians 2:8), and "it is God which worketh in you" (Philippians 2:13).
+Thus, I say, the man is entirely passive in this work; it is all wrought immediately by a divine agency.16 The man now becomes a new creature. Although he cannot discern what is the way of the spirit (as the wise man observes) or how God thus changes the heart, yet he knows that he has different feelings from what he had before. Therefore,
 
-In this work, Haynes says, man is entirely passive. Regeneration is wrought immediately by divine agency. The person becomes a new creature. Though he cannot discern the way of the Spirit or fully explain how God changes the heart, he knows that his feelings and affections are no longer what they were before.
+It is necessary that we consider those things that are the attendants or consequences of regeneration or the new birth for there are no gracious or holy exercises that are prior thereto, to be sure, in the order of nature. Some seem to suppose faith to be before regeneration, but a little reflection upon the matter will show this to be wrong. By faith we are to understand a believing of those truths that God has exhibited in his word with a friendly heart.
 
-## Regeneration Before Faith
+Now, to suppose that a man believes with this friendly heart antecedent to regeneration is to suppose that a man is a friend to God while in a state of unregeneracy, which is contradictory to Scripture. Now, if to believe with a friendly and right-disposed heart is absolutely necessary in order to constitute a true faith and such a heart is peculiar to the regenerate only, then we must be possessed with this heart (which is given in regeneration) before there can flow from it any such exercises, so that the man must become a good man, or be regenerated, before he can exercise faith or love or any grace whatever.
 
-Haynes next considers the attendants and consequences of regeneration, or the new birth. He argues that no gracious or holy exercises come before regeneration in the order of nature.
+Hence, we read of men's receiving Christ and then becoming the sons of God (John 1:12). Therefore, what lies before us is to show what those fruits and effects are and what are those inward feelings that come in consequence of the new birth.
 
-Some suppose faith comes before regeneration, but Haynes says reflection shows this to be wrong. True faith is not bare assent. It is believing the truths God has revealed in his Word with a friendly heart. To suppose that a man believes with such a heart before regeneration would be to suppose that he is already a friend to God while still unregenerate, which contradicts Scripture.
+He loves God supremely. He loves holiness for what it is in itself because it agrees with his new temper; he chooses and prefers that to anything else. He loves the law of God. He loves the gospel and everything that is Godlike. He loves the holy angels and the spirits of just men made perfect. His affections are set on things that are above. His treasure is there, and his heart will be there also. He loves the people of God in this world; nay, wherever moral rectitude is to be seen, he falls in love with it. He loves all mankind with a holy and virtuous love.
 
-If true faith requires a right-disposed heart, and such a heart belongs only to the regenerate, then the heart given in regeneration must come before the exercises that flow from it. A man must be made good, or regenerated, before he can exercise faith, love, or any other grace.
+Although he cannot love those who are the enemies of God with a love of complacency, yet he loves them with the love of benevolence. He is of a noble and generous spirit. He is a well-wisher to all mankind. And this supreme love to God and benevolence to man is spoken of in Scripture as the very essence of true religion.
 
-## The Fruits of the New Birth
+He repents of all his sins. He feels guilty before God. He sees and owns that God is right, and he is wrong. He sees and gives in that it would be just for God to consign him over to the regions of despair. Now the man who could take no delight in anything else but sin hates it beyond anything whatever. Now he can acknowledge his sin with holy David, "Against thee, thee only, have I sinned"--"hide thy face from my sins, and blot out all mine iniquities." He sees that the sacrifices of God is a broken and a contrite spirit. Like the publican, afraid to look up, he smites upon his breast, saying, "God be merciful to me a sinner."
 
-Haynes then turns to the fruits and effects of regeneration.
+He believes on the Lord Jesus Christ. I just observed what it was to believe. It is believing the record that God has given of his Son with a friendly heart. He gives in to the truths of the gospel with his heart, and he knows the truth by his own happy experience.
 
-### Supreme Love to God
+He is disposed to walk in all the ordinances of God blameless. He evidences by his holy walk that he has a regard for the honor of God. He endeavors to imitate his Divine master in all his imitable perfections. Knowing that "he that saith he abideth in him ought himself also so to walk, even as he has walked." Oh, happy change indeed! The man is made like God in some good measure. He has the same kind of affections and dispositions as there are in God. He has a living principle within him that is active and vigorous, springing up into everlasting life.
 
-The regenerate person loves God supremely. He loves holiness for what it is because it agrees with his new temper. He loves the law of God, the gospel, and everything that is Godlike. His affections are set on things above. His treasure is there, and his heart follows.
+But we pass on to take notice of the third thing in the method, which was,
 
-He loves the people of God in this world. Wherever moral rectitude is seen, he loves it. He loves all mankind with a holy and virtuous love. Though he cannot love the enemies of God with a love of complacency, he loves them with the love of benevolence. He is of a noble and generous spirit, a well-wisher to all mankind.
+To show what we are to understand by seeing the kingdom of God. Now we are not to suppose that it is an intuitive view that we have of the kingdom of God, as we behold objects with our eyes, but we are to understand enjoying or being admitted to possession of the blessings and entertainments of the heavenly world, or being brought into the Divine favor. He cannot be a partaker of that unspeakable happiness that is in God; he cannot enjoy that blessed intercourse and holy communion that comes to the believer in consequence of his being united to Christ in this world or be admitted to those more sublime entertainments that are above. Something like this we are to understand by seeing the kingdom of God. But it will not be amiss to inquire a little what is meant by the kingdom of God. And we may understand
 
-This supreme love to God and benevolence to man, Haynes says, is spoken of in Scripture as the essence of true religion.
+The spiritual kingdom of Christ here in this world. I mean that gracious temper of mind, or those holy dispositions that are implanted in the heart by regeneration, and also when a number of such do unite together in an ecclesiastical body. This is called Christ's kingdom because they not only have Christ's kingdom in their hearts, but also, being visibly united together to promote the cause of Christ, they may, by way of eminence, be so styled.
 
-### Repentance for Sin
+And, We may understand the kingdom of glory, or this principle of divine life consummated in the heavenly world, so that this kingdom that believers have set up in them in this world is the same in kind as it is in heaven. But when we shall come to put off this tabernacle and be embodied spirits in the upper world, our love will be increased, and we shall drink full draughts out of that crystal stream that glides gently through the paradise of God.
 
-The regenerate person repents of all his sins. He feels guilty before God. He sees and owns that God is right and he is wrong. He acknowledges that God would be just to consign him to despair.
+Oh! did believers once know adequately what is prepared for them in the heavenly world, how would they despise all things here below and long to be on the wing for heaven! Well may it be called a kingdom, where are crowns not of gold, but of glory;--where the King of kings sits amid the heavenly throng and feeds them with his celestial dainties. And when the body is reunited to the soul at the resurrection, there will no doubt be much higher degrees of glory. Oh, then, let us live as becometh those who are so highly favoured of the Lord!
 
-The man who once took delight in sin now hates it beyond anything. With David, he can say, "Against thee, thee only, have I sinned." Like the publican, afraid to look up, he smites his breast and cries, "God be merciful to me a sinner."
+Hence see the propriety of our blessed Lord's assertion in the text, that, except a man be born again, he cannot see the kingdom of God, or enjoy the favor and love of God, either in this world or that to come. If men are totally depraved, as has been considered, from thence arises the absolute necessity of the new birth, and it is no strange or unaccountable thing that men must be born again. There is no obtaining the blessings of heaven without it. Therefore, says our Lord, "Marvel not that I said unto thee, Ye must be born again."
 
-### Faith in Christ
+Hence learn the folly of all those who rest in anything short of regeneration or the new birth, for however far we may go in the things of religion, yet if we are destitute of this divine and holy principle we may be assured of it, from Scripture as well as from the nature of things, that we cannot see the kingdom of God.
 
-The regenerate person believes on the Lord Jesus Christ. Faith is believing the record God has given concerning his Son with a friendly heart. He gives himself to the truths of the gospel from the heart, and he knows the truth by his own happy experience.
+Let us examine ourselves whether we are possessed of this holy temper of heart or not. Have we new dispositions?--new affections?--and new desires? Are God and divine things the center and object of our supreme love? Have we repentance toward God and faith in the Lord Jesus Christ? Have we got that universal benevolence that is the peculiar characteristic of a good man? Do we love the law of God? Have we viewed it in its purity and spirituality? Are we heartily disposed to walk in the ways of holiness? Do we freely and voluntarily choose that way? Are we well pleased with the gospel way of salvation?
 
-### Holy Obedience
+Lastly. Let all those who are strangers to the new birth be exhorted no longer to live estranged from God but labor after this holy temper of mind. Flee to Christ before it is too late. Consider that there is an aggravated condemnation that awaits all impenitent sinners. There is a day of death coming. There is a day of judgment coming. A few turns more upon the stage and we are gone. Oh, how will you answer it at the bar of God for your thus remaining enemies to him? It is sin that separates from God. But it is the being or remaining such that will eternally separate you from him. Never rest easy till you feel in you a change wrought by the Holy Spirit. And believe it,--until then you are exposed to the wrath of God, and without repentance you will in a few days be lifting up your eyes in torment.
 
-The regenerate person is disposed to walk in all the ordinances of God blameless. His holy walk evidences regard for the honor of God. He endeavors to imitate his divine Master in all his imitable perfections, knowing that "he that saith he abideth in him ought himself also so to walk, even as he walked."
-
-This is the happy change: the man is made like God in some good measure. He has affections and dispositions of the same kind as those that are in God. A living principle is within him, active and vigorous, springing up into everlasting life.
-
-## Seeing the Kingdom of God
-
-Haynes then explains what it means to see the kingdom of God. It is not an intuitive sight, as though one beheld an object with the eyes. Rather, it means enjoying or being admitted into possession of the blessings of the heavenly world, being brought into divine favor, and sharing in that holy communion that belongs to those united to Christ.
-
-The kingdom of God may refer to the spiritual kingdom of Christ in this world. This includes the gracious temper of mind and holy dispositions implanted by regeneration. It also includes believers visibly united together in an ecclesiastical body to promote the cause of Christ.
-
-It may also refer to the kingdom of glory, where this principle of divine life is consummated in heaven. The kingdom believers possess in this world is the same in kind as the kingdom above, though in heaven love will be increased and made full.
-
-Haynes lifts the eyes of believers to the glory prepared for them: a kingdom where the crowns are not of gold but of glory, where the King of kings sits amid the heavenly throng and feeds his people with celestial delights.
-
-## The Necessity of the New Birth
-
-Haynes sees in all this the propriety of Christ's words: "Except a man be born again, he cannot see the kingdom of God." If men are totally depraved, then the absolute necessity of the new birth is no strange thing. There is no obtaining the blessings of heaven without it.
-
-Therefore, Christ says, "Marvel not that I said unto thee, Ye must be born again."
-
-## The Folly of Resting Short of Regeneration
-
-Haynes warns against resting in anything short of regeneration. However far a person may go in the things of religion, if he lacks this divine and holy principle, Scripture and reason both testify that he cannot see the kingdom of God.
-
-He calls readers to examine themselves:
-
-- Do we have new dispositions, new affections, and new desires?
-- Are God and divine things the center and object of our supreme love?
-- Do we have repentance toward God and faith in the Lord Jesus Christ?
-- Do we possess universal benevolence, the peculiar characteristic of a good man?
-- Do we love the law of God?
-- Have we viewed it in its purity and spirituality?
-- Are we heartily disposed to walk in the ways of holiness?
-- Do we freely and voluntarily choose that way?
-- Are we well pleased with the gospel way of salvation?
-
-## Exhortation
-
-Haynes closes by exhorting all strangers to the new birth no longer to live estranged from God, but to labor after this holy temper of mind and flee to Christ before it is too late.
-
-He warns of death, judgment, and the aggravated condemnation awaiting impenitent sinners. Sin separates from God, and remaining in sin will eternally separate the sinner from him. Therefore no one should rest easy until he feels a change wrought by the Holy Spirit.
-
-Haynes ends with a prayer that these things would be laid suitably to heart, that the kingdom of Christ would be set up in the heart here, and that believers would grow up to the stature of perfect men in Christ Jesus. This lays the foundation for union with all holy beings, and with it everlasting happiness in the kingdom of glory through Jesus Christ our Lord. Amen.
-
-## Study Notes
-
-Haynes' treatment joins regeneration and sanctification without confusing them. Regeneration is the Spirit's immediate work of giving a new heart. Sanctification appears in the fruit that follows: love to God, repentance, faith, holy obedience, benevolence, communion with Christ, and growth toward glory.
+The Lord grant that we may lay these things suitably to heart;--that we, having the kingdom of Christ set up in our hearts here, may grow up to the stature of perfect men in Christ Jesus. This will lay a foundation for union with all holy beings, and with this, everlasting happiness in the kingdom of glory is inseparably connected, through Jesus Christ our Lord. Amen.
