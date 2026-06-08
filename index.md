@@ -55,14 +55,21 @@ body_class: home
 
 <section class="section section--accent">
   <div class="section__header">
-    <p class="eyebrow">Regeneration and Sanctification</p>
-    <h2>Lemuel Haynes on the new birth.</h2>
+    <p class="eyebrow">Featured Articles</p>
+    <h2>Regeneration, sanctification, and public faithfulness.</h2>
   </div>
-  <a class="article-card" href="{{ '/resources/lemuel-haynes-nature-of-regeneration/' | relative_url }}">
-    <span>Sermon Excerpt</span>
-    <h3>The Nature of Regeneration</h3>
-    <p>Haynes teaches that the new birth is the immediate work of the Holy Spirit, and that its fruits are love to God, repentance, faith in Christ, holy obedience, and growth toward glory.</p>
-  </a>
+  <div class="article-grid">
+    <a class="article-card" href="{{ '/resources/lemuel-haynes-nature-of-regeneration/' | relative_url }}">
+      <span>Sermon Excerpt</span>
+      <h3>The Nature of Regeneration</h3>
+      <p>Haynes teaches that the new birth is the immediate work of the Holy Spirit, and that its fruits are love to God, repentance, faith in Christ, holy obedience, and growth toward glory.</p>
+    </a>
+    <a class="article-card" href="{{ '/resources/protest-or-production-1961-black-baptist-schism/' | relative_url }}">
+      <span>Essay</span>
+      <h3>Protest or Production</h3>
+      <p>A reflection on the 1961 Black Baptist schism, Joseph H. Jackson, and the older stream of Black Protestant thought that prized Christian formation, civic order, and institution-building.</p>
+    </a>
+  </div>
 </section>
 
 <section class="section">

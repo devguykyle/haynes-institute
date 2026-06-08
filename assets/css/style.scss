@@ -237,6 +237,18 @@ a {
   max-width: 760px;
 }
 
+.article-grid {
+  display: grid;
+  gap: 18px;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  margin-top: 28px;
+  max-width: 1120px;
+}
+
+.article-grid .article-card {
+  max-width: none;
+}
+
 .article-card span {
   color: var(--red);
   display: block;
@@ -344,6 +356,7 @@ a {
   }
 
   .feature-grid,
+  .article-grid,
   .guide-grid,
   .section--split {
     grid-template-columns: 1fr;
