@@ -17,7 +17,7 @@ topics:
 
 ## Attribution
 
-The following address is attributed to Dr. Joseph H. Jackson at the 1969 National Baptist Convention. The text was supplied from the document titled "WHAT, THEN.docx" and has been lightly cleaned for paragraphing and obvious transcription errors.
+The following address is attributed to Dr. Joseph H. Jackson and comes from the pamphlet *The Record of the 89th Annual Session of the National Baptist Convention*, held with the Baptist Churches of Kansas City, Missouri, September 9-14, 1969. The text has been lightly cleaned for paragraphing and obvious transcription errors.
 
 # What, Then, Must We Do Now?
 
