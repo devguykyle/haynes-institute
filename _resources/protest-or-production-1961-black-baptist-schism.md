@@ -6,6 +6,8 @@ date_text: 2026
 status: Original article
 summary: An essay on the 1961 division between the National Baptist Convention and the Progressive National Baptist Convention, contrasting protest politics with Christian formation, civic order, and productive institution-building.
 featured: true
+people:
+  - Joseph H. Jackson
 topics:
   - National Baptist Convention
   - Joseph H. Jackson

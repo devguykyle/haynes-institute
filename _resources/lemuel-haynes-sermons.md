@@ -6,6 +6,8 @@ date_text: 18th and early 19th century
 status: Initial record
 summary: Sermons and writings from one of early America's most important Black ministers.
 featured: true
+people:
+  - Lemuel Haynes
 ---
 
 ## Why This Belongs Here

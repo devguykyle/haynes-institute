@@ -6,6 +6,8 @@ date_text: From "Saturday Evening Sermon"
 status: Transcribed excerpt
 summary: Lemuel Haynes on the agency of the Holy Spirit in regeneration, the fruits of the new birth, and the necessity of being born again.
 featured: true
+people:
+  - Lemuel Haynes
 topics:
   - Regeneration
   - Sanctification

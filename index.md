@@ -69,6 +69,11 @@ body_class: home
       <h3>Protest or Production</h3>
       <p>A reflection on the 1961 Black Baptist schism, Joseph H. Jackson, and the older stream of Black Protestant thought that prized Christian formation, civic order, and institution-building.</p>
     </a>
+    <a class="article-card" href="{{ '/resources/joseph-h-jackson-what-then-must-we-do-now/' | relative_url }}">
+      <span>Address</span>
+      <h3>What, Then, Must We Do Now?</h3>
+      <p>Jackson calls for civil responsibility, one American standard, moral discipline, and the one gospel of Jesus Christ.</p>
+    </a>
   </div>
 </section>
 

@@ -6,6 +6,8 @@ date_text: 1787
 status: Initial record
 summary: A foundational early Black American address on faith, moral life, slavery, and responsibility.
 featured: true
+people:
+  - Jupiter Hammon
 ---
 
 ## Why This Belongs Here
