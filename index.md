@@ -74,6 +74,11 @@ body_class: home
       <h3>What, Then, Must We Do Now?</h3>
       <p>Jackson calls for civil responsibility, one American standard, moral discipline, and the one gospel of Jesus Christ.</p>
     </a>
+    <a class="article-card" href="{{ '/resources/nannie-h-burroughs-dogged-determination/' | relative_url }}">
+      <span>Address</span>
+      <h3>Dogged Determination</h3>
+      <p>Nannie H. Burroughs calls for Christian civilization, moral courage, self-help, and a renewed determination too good to miss.</p>
+    </a>
   </div>
 </section>
 
