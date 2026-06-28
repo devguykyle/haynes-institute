@@ -15,7 +15,7 @@ body_class: home
   </div>
 </section>
 
-<section class="section section--accent">
+<section class="section section--articles">
   <div class="section__header">
     <p class="eyebrow">Featured Articles</p>
     <h2>Regeneration, sanctification, and public faithfulness.</h2>
@@ -79,7 +79,7 @@ body_class: home
 
 <section class="section mini-about">
   <div class="mini-about__mark">H</div>
-  <div>
+  <div class="mini-about__content">
     <p class="eyebrow">About the Institute</p>
     <h2>Recover the past. Live the faith. Build the future.</h2>
     <p>The Haynes Institute gathers theology, American history, and classical education resources for households, churches, teachers, and lifelong learners seeking Christ-centered formation.</p>

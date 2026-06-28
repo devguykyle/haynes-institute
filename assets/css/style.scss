@@ -246,16 +246,19 @@ a {
   grid-template-columns: minmax(180px, 0.35fr) minmax(280px, 1.65fr);
 }
 
-.section--accent {
+.section--accent,
+.section--articles {
   background: var(--blue);
   color: var(--panel);
 }
 
-.section--accent .eyebrow {
+.section--accent .eyebrow,
+.section--articles .eyebrow {
   color: #f0c05a;
 }
 
-.section--accent h2 {
+.section--accent h2,
+.section--articles h2 {
   max-width: 760px;
 }
 
@@ -420,15 +423,27 @@ a {
   display: grid;
   gap: clamp(22px, 4vw, 48px);
   grid-template-columns: auto minmax(0, 760px);
+  padding-bottom: clamp(38px, 5vw, 64px);
+  padding-top: clamp(38px, 5vw, 64px);
 }
 
 .mini-about .eyebrow {
   color: var(--gold);
 }
 
+.mini-about h2 {
+  color: var(--paper);
+  font-size: clamp(1.45rem, 3vw, 2.3rem);
+  letter-spacing: 0.04em;
+  line-height: 1.2;
+  margin-bottom: 14px;
+  max-width: 760px;
+}
+
 .mini-about p {
   color: #ebe1cf;
   line-height: 1.7;
+  max-width: 820px;
 }
 
 .mini-about__mark {
@@ -437,10 +452,10 @@ a {
   color: var(--gold);
   display: flex;
   font-family: var(--serif);
-  font-size: clamp(2.2rem, 5vw, 4rem);
-  height: clamp(76px, 12vw, 120px);
+  font-size: clamp(1.8rem, 4vw, 3rem);
+  height: clamp(62px, 9vw, 92px);
   justify-content: center;
-  width: clamp(76px, 12vw, 120px);
+  width: clamp(62px, 9vw, 92px);
 }
 
 .site-footer p {
