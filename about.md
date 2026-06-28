@@ -12,6 +12,18 @@ The name honors Lemuel Haynes, an early Black American minister, Revolutionary W
 
 The institute is especially concerned with helping and healing the Black American community through truth-telling, historical memory, moral formation, and careful reading.
 
-## What Comes Next
+## The Work
 
-The site will begin as a Jekyll archive hosted on GitHub Pages. Over time it can grow into a larger publication, course library, or hosted WordPress site without losing the simple structure established here.
+The work begins with recovering sources worth reading slowly.
+
+### Theology
+
+Sermons, catechisms, spiritual writings, and careful introductions to the Black church and Christian thought.
+
+### American History
+
+Accounts of men and women whose work shaped churches, schools, families, public life, and the American conscience.
+
+### Classical Education
+
+Reading paths, teaching notes, and source collections that train attention, virtue, memory, and judgment.
