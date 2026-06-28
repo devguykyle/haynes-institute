@@ -64,7 +64,7 @@ body_class: home
 
 <section class="section section--split section--sources">
   <div>
-    <p class="eyebrow">Featured Collection</p>
+    <p class="eyebrow">Featured Collections</p>
   </div>
   <div class="source-list">
     {% assign featured_resources = site.resources | where: "featured", true | sort: "title" %}
@@ -74,5 +74,15 @@ body_class: home
         <strong>{{ resource.title }}</strong>
       </a>
     {% endfor %}
+  </div>
+</section>
+
+<section class="section mini-about">
+  <div class="mini-about__mark">H</div>
+  <div>
+    <p class="eyebrow">About the Institute</p>
+    <h2>Recover the past. Live the faith. Build the future.</h2>
+    <p>The Haynes Institute gathers theology, American history, and classical education resources for households, churches, teachers, and lifelong learners seeking Christ-centered formation.</p>
+    <a class="text-link" href="{{ '/about/' | relative_url }}">Read more about the work</a>
   </div>
 </section>
