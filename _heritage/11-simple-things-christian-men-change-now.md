@@ -1,5 +1,5 @@
 ---
-title: 11 Simple Things Christian Men Change Now
+title: 11 Simple Things Christian Men Start Doing
 category: Practical Counsel
 summary: Eleven plain, immediate habits for Christian men seeking to order their homes, work, worship, family life, and fellowship toward faithfulness.
 date: 2026-06-30
@@ -47,7 +47,7 @@ If you are not married, set aside would-be date night money into a savings accou
 
 If you have ruined your marriage or gotten a divorce, repent. Lean harder into the counsel named above. If it is practical and righteous, seek reconciliation.
 
-If you are living with a woman you are not married to, ask an elder who knows you whether it would be prudent to make arrangements for a marriage covenant as soon as possible, and whether you should move out until that covenant is made.
+If you are living with a woman you are not married to, ask a local church elder or pastor who knows you for counsel about making arrangements for a marriage covenant as soon as possible. Until you are married, move out and order the relationship before God with repentance, clarity, and obedience.
 
 ## 6. Read Aloud to Your Children
 
