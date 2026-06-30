@@ -13,7 +13,7 @@ Here are eleven simple things Christian men can change now.
 
 Begin with Scripture and prayer. Keep it simple enough to sustain. Read a chapter. Pray honestly. Confess sin. Give thanks. Ask for wisdom. Pray for your household, church, neighbors, and work.
 
-The point is not to perform private piety. The point is to become a man who hears God and speaks to God before speaking too much everywhere else.
+Have a sense of piety in private. Become a man who hears God and speaks to God before speaking too much everywhere else.
 
 ## 2. Start a Household Budget
 
@@ -81,7 +81,7 @@ This is not performance art. It is encouragement and exhortation. A man's voice 
 
 Gather a few men regularly. Let there be righteous mirth, good food, Scripture, and honest conversation about the needs of your local church and neighborhood.
 
-Do not make fellowship so spiritualized that it becomes unreal, or so casual that it becomes useless. Eat, laugh, pray, speak plainly, and look for ways to do good together.
+Eat, laugh, pray, speak plainly, and look for ways to do good together.
 
 ## 11. Learn Patience When It Comes to Change
 
