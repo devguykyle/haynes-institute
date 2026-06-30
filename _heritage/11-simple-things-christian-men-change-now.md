@@ -61,7 +61,7 @@ This does not mean anyone has to quit a job tomorrow. It does not mean you need 
 
 Read Scripture. Work on math facts. Memorize a catechism question. Read a paragraph of history. Copy a sentence. Sing a psalm or hymn. Talk about one good thing and one hard thing from the week.
 
-Supplemental homeschooling is still household formation. A guide on how to start supplemental homeschooling is coming soon.
+Supplemental homeschooling is still household formation. Read [How To Do Supplemental Homeschooling]({{ '/heritage-american/how-to-do-supplemental-homeschooling/' | relative_url }}) to begin with a simple weekly plan.
 
 ## 8. Honor Your Father
 
