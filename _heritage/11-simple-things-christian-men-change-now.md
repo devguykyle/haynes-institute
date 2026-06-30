@@ -1,5 +1,5 @@
 ---
-title: 11 Simple Things Christian Men Start Doing
+title: 11 Simple Things Christian Men Can Start Doing
 category: Practical Counsel
 summary: Eleven plain, immediate habits for Christian men seeking to order their homes, work, worship, family life, and fellowship toward faithfulness.
 date: 2026-06-30
