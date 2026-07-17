@@ -1,0 +1,113 @@
+---
+title: Attributes of God
+description: A video course on the doctrine of God.
+layout: page
+permalink: /courses/attributes-of-god/
+---
+
+# Attributes of God
+
+This course gathers a sequence of video lessons on the doctrine of God. Move through the lessons in order, taking notes on what each lesson teaches about God's being, works, names, perfections, and relation to his creatures.
+
+<div class="course-list">
+  <a class="course-lesson" href="https://www.youtube.com/watch?v=UJ7sso2mRBQ">
+    <span>Lesson 1</span>
+    <strong>Attributes of God</strong>
+    <em>Watch on YouTube</em>
+  </a>
+  <a class="course-lesson" href="https://www.youtube.com/watch?v=Jp1UvR2syLk">
+    <span>Lesson 2</span>
+    <strong>Attributes of God</strong>
+    <em>Watch on YouTube</em>
+  </a>
+  <a class="course-lesson" href="https://www.youtube.com/watch?v=oRXzGbf42iI">
+    <span>Lesson 3</span>
+    <strong>Attributes of God</strong>
+    <em>Watch on YouTube</em>
+  </a>
+  <a class="course-lesson" href="https://www.youtube.com/watch?v=35gJJ7ItOiA">
+    <span>Lesson 4</span>
+    <strong>Attributes of God</strong>
+    <em>Watch on YouTube</em>
+  </a>
+  <a class="course-lesson" href="https://www.youtube.com/watch?v=gtwC2jUrcF0">
+    <span>Lesson 5</span>
+    <strong>Attributes of God</strong>
+    <em>Watch on YouTube</em>
+  </a>
+  <a class="course-lesson" href="https://www.youtube.com/watch?v=skXB7XWnRug">
+    <span>Lesson 6</span>
+    <strong>Attributes of God</strong>
+    <em>Watch on YouTube</em>
+  </a>
+  <a class="course-lesson" href="https://www.youtube.com/watch?v=3ZL18bPI4NU">
+    <span>Lesson 7</span>
+    <strong>Attributes of God</strong>
+    <em>Watch on YouTube</em>
+  </a>
+  <a class="course-lesson" href="https://www.youtube.com/watch?v=wYmj49J_nRI">
+    <span>Lesson 8</span>
+    <strong>Attributes of God</strong>
+    <em>Watch on YouTube</em>
+  </a>
+  <a class="course-lesson" href="https://www.youtube.com/watch?v=p8irlq_sn30">
+    <span>Lesson 9</span>
+    <strong>Attributes of God</strong>
+    <em>Watch on YouTube</em>
+  </a>
+  <a class="course-lesson" href="https://www.youtube.com/watch?v=Q9aHQI-2AX8">
+    <span>Lesson 10</span>
+    <strong>Attributes of God</strong>
+    <em>Watch on YouTube</em>
+  </a>
+  <a class="course-lesson" href="https://www.youtube.com/watch?v=V28NO1x8t24">
+    <span>Lesson 11</span>
+    <strong>Attributes of God</strong>
+    <em>Watch on YouTube</em>
+  </a>
+  <a class="course-lesson" href="https://www.youtube.com/watch?v=tU4O_EEvaFY">
+    <span>Lesson 12</span>
+    <strong>Attributes of God</strong>
+    <em>Watch on YouTube</em>
+  </a>
+  <a class="course-lesson" href="https://www.youtube.com/watch?v=9nJProIri8s">
+    <span>Lesson 13</span>
+    <strong>Attributes of God</strong>
+    <em>Watch on YouTube</em>
+  </a>
+  <a class="course-lesson" href="https://www.youtube.com/watch?v=j8R3ba-NKAU">
+    <span>Lesson 14</span>
+    <strong>Attributes of God</strong>
+    <em>Watch on YouTube</em>
+  </a>
+  <a class="course-lesson" href="https://www.youtube.com/watch?v=6OFa4qyKv84">
+    <span>Lesson 15</span>
+    <strong>Attributes of God</strong>
+    <em>Watch on YouTube</em>
+  </a>
+  <a class="course-lesson" href="https://www.youtube.com/watch?v=N6qQvV90Dmw">
+    <span>Lesson 16</span>
+    <strong>Attributes of God</strong>
+    <em>Watch on YouTube</em>
+  </a>
+  <a class="course-lesson" href="https://www.youtube.com/watch?v=eCA9g4chOU4">
+    <span>Lesson 17</span>
+    <strong>Attributes of God</strong>
+    <em>Watch on YouTube</em>
+  </a>
+  <a class="course-lesson" href="https://www.youtube.com/watch?v=FK4qF0CQ5xw">
+    <span>Lesson 18</span>
+    <strong>Attributes of God</strong>
+    <em>Watch on YouTube</em>
+  </a>
+  <a class="course-lesson" href="https://www.youtube.com/watch?v=zhj6HAydsCA">
+    <span>Lesson 19</span>
+    <strong>Attributes of God</strong>
+    <em>Watch on YouTube</em>
+  </a>
+  <a class="course-lesson" href="https://www.youtube.com/watch?v=5zn-cRDO43E">
+    <span>Lesson 20</span>
+    <strong>Attributes of God</strong>
+    <em>Watch on YouTube</em>
+  </a>
+</div>
