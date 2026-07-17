@@ -5,13 +5,37 @@ body_class: home
 
 <section class="hero">
   <div class="hero__content">
-    <p class="eyebrow">Theology &middot; American History &middot; Classical Education</p>
-    <h1>A study house for memory, faith, and formation.</h1>
-    <p class="hero__lead">The Haynes Institute exists to spread the recovery of confessional protestantism among black Americans so that Christ might be made first in our homes, businesses, indeed in all of life to the praise of God's glorious grace.</p>
+    <p class="eyebrow">New Course</p>
+    <h1>Attributes of God</h1>
+    <p class="hero__lead">Begin a steady study of God's being, works, names, perfections, and relation to his creatures. Watch the lessons in order, use the additional readings, and start today.</p>
     <div class="hero__actions">
-      <a class="button button--primary" href="{{ '/resources/' | relative_url }}">Browse Resources</a>
-      <a class="button button--secondary" href="{{ '/start-here/' | relative_url }}">Start Here</a>
+      <a class="button button--primary" href="{{ '/courses/attributes-of-god/' | relative_url }}">Start Today</a>
+      <a class="button button--secondary" href="{{ '/courses/' | relative_url }}">Browse Courses</a>
     </div>
+  </div>
+</section>
+
+<section class="section recommended-section">
+  <div class="section__header">
+    <p class="eyebrow">Recommended Next</p>
+    <h2>Read after you begin.</h2>
+  </div>
+  <div class="recommended-grid">
+    <a class="article-card" href="https://www.monergism.com/thethreshold/sdg/sibbes/The%20Bruised%20Reed%20and%20Smoking%20-%20Richard%20Sibbes.pdf">
+      <span>Devotional</span>
+      <h3>A Bruised Reed</h3>
+      <p>Richard Sibbes on Christ's tenderness toward weak, wounded, and repentant saints.</p>
+    </a>
+    <a class="article-card" href="https://www.reformedontheweb.com/miscellaneous/pastor-theologian-albert-mohler.pdf">
+      <span>Pastoral Theology</span>
+      <h3>The Pastor As Theologian</h3>
+      <p>A call for pastors to serve the church with doctrinal clarity and theological conviction.</p>
+    </a>
+    <a class="article-card" href="{{ '/resources/joseph-h-jackson-what-then-must-we-do-now/' | relative_url }}">
+      <span>Address</span>
+      <h3>What, Then, Must We Do Now?</h3>
+      <p>Joseph H. Jackson on responsibility, one standard, moral discipline, and the one gospel of Jesus Christ.</p>
+    </a>
   </div>
 </section>
 

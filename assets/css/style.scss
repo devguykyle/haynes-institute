@@ -275,6 +275,17 @@ a {
   max-width: 1120px;
 }
 
+.recommended-grid {
+  display: grid;
+  gap: 18px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  margin-top: 28px;
+}
+
+.recommended-section .article-card {
+  max-width: none;
+}
+
 .article-grid .article-card {
   max-width: none;
 }
@@ -663,6 +674,7 @@ a {
 
   .feature-grid,
   .article-grid,
+  .recommended-grid,
   .guide-grid,
   .section--split,
   .mini-about {
