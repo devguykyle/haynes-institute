@@ -22,6 +22,13 @@ Browse the first shelf of sources and historical entries. Each page can grow int
   <a class="text-link" href="{{ '/videos/' | relative_url }}">Browse videos</a>
 </div>
 
+<div class="resource-callout resource-callout--light">
+  <span>Books</span>
+  <h2>Read Foundational Works</h2>
+  <p>Find catechisms, confessions, classic devotional works, apologetics resources, and pastoral ministry texts.</p>
+  <a class="text-link" href="{{ '/books/' | relative_url }}">Browse books</a>
+</div>
+
 <div class="resource-index">
   {% assign resources = site.resources | sort: "title" %}
   {% for resource in resources %}

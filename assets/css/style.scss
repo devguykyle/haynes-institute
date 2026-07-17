@@ -491,6 +491,39 @@ a {
   margin-bottom: 0;
 }
 
+.book-list {
+  display: grid;
+  gap: 14px;
+  margin: 20px 0 42px;
+}
+
+.book-card {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  display: block;
+  padding: 20px;
+  text-decoration: none;
+}
+
+.book-card span {
+  color: var(--gold);
+  display: block;
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  margin-bottom: 8px;
+  text-transform: uppercase;
+}
+
+.book-card h2 {
+  font-size: clamp(1.15rem, 2.2vw, 1.55rem);
+  margin: 0 0 8px;
+}
+
+.book-card p {
+  margin-bottom: 0;
+}
+
 .publication-hero {
   border-bottom: 1px solid var(--line);
   margin-bottom: 34px;

@@ -9,6 +9,25 @@ permalink: /courses/attributes-of-god/
 
 This course gathers a sequence of video lessons on the doctrine of God. Move through the lessons in order, taking notes on what each lesson teaches about God's being, works, names, perfections, and relation to his creatures.
 
+## Additional Reading
+
+These additional reading resources will help you get the most out of this course and equip you for shepherding your people.
+
+<div class="book-list">
+  <a class="book-card" href="http://www.reformedfaithmission.weebly.com/uploads/8/3/0/9/8309462/one_true_god_by_paul_washer.pdf">
+    <span>PDF</span>
+    <h2>One True God</h2>
+    <p>Paul Washer</p>
+  </a>
+  <a class="book-card" href="https://frame-poythress.org/wp-content/uploads/2019/01/PoythressVernTheophanyABiblicalTheologyOfGodsAppearing.pdf">
+    <span>PDF</span>
+    <h2>Theophany</h2>
+    <p>Vern S. Poythress</p>
+  </a>
+</div>
+
+## Lessons
+
 <div class="course-list">
   <a class="course-lesson" href="https://www.youtube.com/watch?v=UJ7sso2mRBQ">
     <span>Lesson 1</span>
