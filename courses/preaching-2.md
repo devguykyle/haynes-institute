@@ -9,6 +9,18 @@ permalink: /courses/preaching-2/
 
 This course gathers John Piper's *The Preaching Class*, a longer sequence of lectures and workshops on the calling, preparation, formation, and delivery of preaching.
 
+## Additional Reading
+
+<div class="book-list">
+  <a class="book-card" href="https://www.monergism.com/thethreshold/sdg/broadus/A%20Treatise%20on%20the%20Preparation%20a%20-%20John%20A.%20Broadus.pdf">
+    <span>PDF</span>
+    <h2>A Treatise on the Preparation and Delivery of Sermons</h2>
+    <p>John A. Broadus</p>
+  </a>
+</div>
+
+## Lessons
+
 <div class="course-list">
   <a class="course-lesson" href="https://www.youtube.com/watch?v=J1G9uJeLQVM&list=PLAcB0f-21Xj3uEBXBDj_ySH5mma8JyR5q">
     <span>Lesson 1</span>
