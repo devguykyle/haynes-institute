@@ -107,35 +107,20 @@ Selected video resources for doctrine, church life, preaching, apologetics, miss
 ## Preaching and Apologetics
 
 <div class="video-library">
-  <a class="video-card" href="https://www.youtube.com/watch?v=puARvKeYU1g">
+  <a class="video-card" href="{{ '/courses/preaching-1/' | relative_url }}">
     <span>Preaching</span>
-    <h2>A Sermon Preparation System</h2>
-    <p>H.B. Charles Jr.</p>
+    <h2>Preaching 1</h2>
+    <p>Selected practical videos on sermon preparation, illustration, and delivery.</p>
   </a>
-  <a class="video-card" href="https://www.youtube.com/watch?v=eYsauXn9gwU">
+  <a class="video-card" href="{{ '/courses/preaching-2/' | relative_url }}">
     <span>Preaching</span>
-    <h2>25 Sermon Illustration Tips in 15 Minutes</h2>
-    <p>H.B. Charles Jr.</p>
+    <h2>Preaching 2</h2>
+    <p>John Piper's Preaching Class arranged as a longer course of lectures and workshops.</p>
   </a>
-  <a class="video-card" href="https://www.youtube.com/watch?v=g6EVTk8twoA">
-    <span>Preaching</span>
-    <h2>The Preacher's Path: Sermon Preparation and Delivery</h2>
-    <p>H.B. Charles Jr.</p>
-  </a>
-  <a class="video-card" href="https://www.youtube.com/watch?v=rA-yKyxrLRg">
+  <a class="video-card" href="{{ '/courses/expository-apologetics/' | relative_url }}">
     <span>Apologetics</span>
-    <h2>Expository Apologetics: Session 1</h2>
-    <p>Voddie Baucham</p>
-  </a>
-  <a class="video-card" href="https://www.youtube.com/watch?v=HWDNbGJM-58">
-    <span>Apologetics</span>
-    <h2>Expository Apologetics: Session 2</h2>
-    <p>Voddie Baucham</p>
-  </a>
-  <a class="video-card" href="https://www.youtube.com/watch?v=LKkpUdCXm80">
-    <span>Apologetics</span>
-    <h2>Expository Apologetics: Session 3</h2>
-    <p>Voddie Baucham</p>
+    <h2>Expository Apologetics</h2>
+    <p>A three-part course from Voddie Baucham.</p>
   </a>
 </div>
 
