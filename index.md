@@ -5,14 +5,20 @@ body_class: home
 
 <section class="hero">
   <div class="hero__content">
-    <p class="eyebrow">New Course</p>
-    <h1>Attributes of God</h1>
-    <p class="hero__lead">Begin a steady study of God's being, works, names, perfections, and relation to his creatures. Watch the lessons in order, use the additional readings, and start today.</p>
+    <p class="eyebrow">New from The Haynes Institute</p>
+    <h1>Begin with the Attributes of God.</h1>
+    <p class="hero__lead">A new course for recovering the faith, ordering the household, and building the future in the knowledge of God.</p>
     <div class="hero__actions">
-      <a class="button button--primary" href="{{ '/courses/attributes-of-god/' | relative_url }}">Start Today</a>
-      <a class="button button--secondary" href="{{ '/courses/' | relative_url }}">Browse Courses</a>
+      <a class="button button--primary" href="{{ '/courses/attributes-of-god/' | relative_url }}">Start the Course</a>
+      <a class="button button--secondary" href="{{ '/resources/' | relative_url }}">Browse Resources</a>
     </div>
   </div>
+  <aside class="hero__feature" aria-label="Featured course">
+    <span>New Course</span>
+    <h2>Attributes of God</h2>
+    <p>Begin a steady study of God's being, works, names, perfections, and relation to his creatures.</p>
+    <a class="text-link" href="{{ '/courses/attributes-of-god/' | relative_url }}">Start today</a>
+  </aside>
 </section>
 
 <section class="section recommended-section">
@@ -20,7 +26,7 @@ body_class: home
     <p class="eyebrow">Recommended Next</p>
     <h2>Read after you begin.</h2>
   </div>
-  <div class="recommended-grid">
+  <div class="recommended-list">
     <a class="article-card" href="https://www.monergism.com/thethreshold/sdg/sibbes/The%20Bruised%20Reed%20and%20Smoking%20-%20Richard%20Sibbes.pdf">
       <span>Devotional</span>
       <h3>A Bruised Reed</h3>

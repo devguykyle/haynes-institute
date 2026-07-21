@@ -2,19 +2,20 @@
 ---
 
 :root {
-  --ink: #17130f;
-  --muted: #5f5548;
-  --paper: #faf7ef;
-  --panel: #fffdf8;
-  --soft-panel: #f1eadc;
-  --line: #d9c8a8;
-  --brown: #3b2a1e;
-  --green: #243c2e;
-  --blue: #17233a;
-  --gold: #b48a3c;
-  --shadow: 0 1px 0 rgba(23, 19, 15, 0.08);
+  --ink: #151a1a;
+  --muted: #5f6968;
+  --paper: #ffffff;
+  --panel: #ffffff;
+  --soft-panel: #f7f9f8;
+  --line: #e3e8e6;
+  --brown: #35291f;
+  --green: #183f36;
+  --blue: #0f4f59;
+  --blue-dark: #12383f;
+  --gold: #8d682b;
+  --shadow: none;
   --serif: Baskerville, "Libre Baskerville", Georgia, serif;
-  --body: "Source Serif 4", Georgia, serif;
+  --body: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
 
 * {
@@ -22,10 +23,10 @@
 }
 
 html {
-  color: var(--ink);
   background: var(--paper);
+  color: var(--ink);
   font-family: var(--body);
-  font-size: 18px;
+  font-size: 16px;
 }
 
 body {
@@ -39,12 +40,12 @@ a {
 
 .site-header {
   align-items: center;
-  background: rgba(255, 253, 248, 0.96);
+  background: rgba(255, 255, 255, 0.98);
   border-bottom: 1px solid var(--line);
   display: flex;
   gap: 24px;
   justify-content: space-between;
-  padding: 16px clamp(20px, 5vw, 64px);
+  padding: 14px clamp(20px, 5vw, 64px);
   position: sticky;
   top: 0;
   z-index: 10;
@@ -53,29 +54,31 @@ a {
 .brand {
   align-items: center;
   display: inline-flex;
-  font-family: var(--serif);
+  font-family: var(--body);
+  font-size: 0.9rem;
   font-weight: 700;
   gap: 12px;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.03em;
   text-decoration: none;
   text-transform: uppercase;
 }
 
 .brand__mark {
   align-items: center;
-  background: var(--blue);
+  background: var(--blue-dark);
   color: var(--paper);
   display: inline-flex;
-  height: 36px;
+  font-family: var(--serif);
+  height: 34px;
   justify-content: center;
-  width: 36px;
+  width: 34px;
 }
 
 .site-nav {
   display: flex;
   flex-wrap: wrap;
   gap: 8px 18px;
-  font-size: 0.82rem;
+  font-size: 0.78rem;
   font-weight: 600;
   letter-spacing: 0.05em;
   text-transform: uppercase;
@@ -87,7 +90,7 @@ a {
 }
 
 .site-nav a:hover {
-  color: var(--gold);
+  color: var(--blue);
 }
 
 .site-main {
@@ -95,24 +98,26 @@ a {
 }
 
 .hero {
-  background: var(--panel);
+  align-items: center;
+  background: linear-gradient(180deg, #ffffff 0%, #f8faf9 100%);
   border-bottom: 1px solid var(--line);
   color: var(--ink);
-  display: flex;
+  display: grid;
+  gap: clamp(28px, 6vw, 84px);
+  grid-template-columns: minmax(0, 1fr) minmax(280px, 400px);
   min-height: auto;
-  padding: clamp(56px, 8vw, 96px) clamp(20px, 5vw, 64px);
+  padding: clamp(58px, 8vw, 104px) clamp(20px, 5vw, 64px);
 }
 
 .hero__content {
-  align-self: center;
-  max-width: 760px;
+  max-width: 800px;
 }
 
 .eyebrow {
   color: var(--gold);
   font-size: 0.72rem;
   font-weight: 700;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.11em;
   margin: 0 0 12px;
   text-transform: uppercase;
 }
@@ -126,18 +131,47 @@ a {
 }
 
 .hero h1 {
-  font-size: clamp(2.4rem, 6vw, 4.75rem);
+  font-size: clamp(2.2rem, 4.8vw, 4rem);
   letter-spacing: 0;
   margin: 0;
-  max-width: 900px;
+  max-width: 860px;
   text-transform: none;
 }
 
 .hero__lead {
   color: var(--muted);
-  font-size: clamp(1.08rem, 1.6vw, 1.28rem);
+  font-size: clamp(1rem, 1.4vw, 1.18rem);
   line-height: 1.68;
-  max-width: 700px;
+  max-width: 650px;
+}
+
+.hero__feature {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-top: 3px solid var(--blue);
+  padding: clamp(22px, 4vw, 32px);
+}
+
+.hero__feature span {
+  color: var(--gold);
+  display: block;
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  margin-bottom: 12px;
+  text-transform: uppercase;
+}
+
+.hero__feature h2 {
+  font-family: var(--serif);
+  font-size: clamp(1.45rem, 2.6vw, 2rem);
+  line-height: 1.15;
+  margin: 0 0 12px;
+}
+
+.hero__feature p {
+  color: var(--muted);
+  line-height: 1.65;
 }
 
 .hero__actions {
@@ -150,43 +184,69 @@ a {
 .button {
   border: 1px solid currentColor;
   display: inline-flex;
+  font-size: 0.78rem;
   font-weight: 700;
-  letter-spacing: 0.06em;
   justify-content: center;
-  min-width: 156px;
+  letter-spacing: 0.08em;
+  min-width: 150px;
   padding: 12px 18px;
   text-decoration: none;
   text-transform: uppercase;
 }
 
 .button--primary {
-  background: var(--gold);
-  border-color: var(--gold);
-  color: var(--blue);
+  background: var(--blue-dark);
+  border-color: var(--blue-dark);
+  color: var(--paper);
+}
+
+.button--primary:hover {
+  background: var(--blue);
+  border-color: var(--blue);
 }
 
 .button--secondary {
+  color: var(--blue-dark);
+}
+
+.button--secondary:hover {
   color: var(--blue);
 }
 
 .section {
-  padding: clamp(48px, 7vw, 88px) clamp(20px, 5vw, 64px);
+  padding: clamp(50px, 7vw, 90px) clamp(20px, 5vw, 64px);
+}
+
+.section__header,
+.article-grid,
+.guide-grid,
+.feature-grid,
+.recommended-list,
+.recommended-grid,
+.resource-index,
+.course-list,
+.book-list,
+.video-library,
+.tool-list {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1120px;
 }
 
 .section__header {
-  max-width: 780px;
+  max-width: 760px;
 }
 
 .section__intro {
   color: var(--muted);
-  font-size: 1.12rem;
-  line-height: 1.6;
+  font-size: 1.04rem;
+  line-height: 1.65;
   margin: -8px 0 0;
   max-width: 680px;
 }
 
 .section h2 {
-  font-size: clamp(1.55rem, 2.8vw, 2.35rem);
+  font-size: clamp(1.45rem, 2.5vw, 2.05rem);
   letter-spacing: 0;
   margin: 0 0 20px;
   text-transform: none;
@@ -195,7 +255,7 @@ a {
 .feature-grid,
 .guide-grid {
   display: grid;
-  gap: 18px;
+  gap: 16px;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   margin-top: 28px;
 }
@@ -211,6 +271,16 @@ a {
   display: block;
   padding: clamp(18px, 3vw, 24px);
   text-decoration: none;
+}
+
+.article-card:hover,
+.guide-card:hover,
+.resource-index__item:hover,
+.source-list__item:hover,
+.course-lesson:hover,
+.video-card:hover,
+.book-card:hover {
+  border-color: #aebfbc;
 }
 
 .feature-grid h3,
@@ -230,23 +300,26 @@ a {
 .page-content p,
 .page-content li {
   color: var(--muted);
-  line-height: 1.68;
+  line-height: 1.72;
 }
 
 .section--split {
   align-items: start;
   background: var(--soft-panel);
+  border-top: 1px solid var(--line);
   display: grid;
   gap: clamp(28px, 5vw, 64px);
   grid-template-columns: minmax(0, 0.9fr) minmax(280px, 1.1fr);
 }
 
 .section--sources {
+  background: var(--paper);
   grid-template-columns: minmax(180px, 0.35fr) minmax(280px, 1.65fr);
 }
 
 .section--accent,
-.section--articles {
+.section--articles,
+.recommended-section {
   background: var(--paper);
   border-top: 1px solid var(--line);
   color: var(--ink);
@@ -269,23 +342,37 @@ a {
 
 .article-grid {
   display: grid;
-  gap: 18px;
+  gap: 16px;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   margin-top: 28px;
-  max-width: 1120px;
 }
 
 .recommended-grid {
   display: grid;
-  gap: 18px;
+  gap: 16px;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   margin-top: 28px;
 }
 
-.recommended-section .article-card {
-  max-width: none;
+.recommended-list {
+  border-top: 1px solid var(--line);
+  display: grid;
+  margin-top: 24px;
+  max-width: 960px;
 }
 
+.recommended-list .article-card {
+  border: 0;
+  border-bottom: 1px solid var(--line);
+  max-width: none;
+  padding: 22px 0;
+}
+
+.recommended-list .article-card p {
+  max-width: 760px;
+}
+
+.recommended-section .article-card,
 .article-grid .article-card {
   max-width: none;
 }
@@ -293,14 +380,15 @@ a {
 .article-card span {
   color: var(--gold);
   display: block;
-  font-size: 0.78rem;
+  font-size: 0.74rem;
   font-weight: 800;
+  letter-spacing: 0.08em;
   margin-bottom: 8px;
   text-transform: uppercase;
 }
 
 .article-card h3 {
-  font-size: clamp(1.25rem, 2vw, 1.55rem);
+  font-size: clamp(1.12rem, 1.8vw, 1.35rem);
 }
 
 .source-list {
@@ -308,13 +396,22 @@ a {
   gap: 12px;
 }
 
+.source-list__item {
+  border-left: 3px solid var(--line);
+}
+
+.source-list__item:hover {
+  border-left-color: var(--blue);
+}
+
 .source-list__item span,
 .guide-card span,
 .resource-index__item span {
   color: var(--gold);
   display: block;
-  font-size: 0.78rem;
+  font-size: 0.74rem;
   font-weight: 800;
+  letter-spacing: 0.08em;
   margin-bottom: 8px;
   text-transform: uppercase;
 }
@@ -322,40 +419,40 @@ a {
 .source-list__item strong {
   display: block;
   font-family: var(--serif);
-  font-size: 1.2rem;
+  font-size: 1.18rem;
 }
 
 .page-content {
   margin: 0 auto;
-  max-width: 880px;
-  padding: clamp(48px, 8vw, 96px) 20px;
+  max-width: 780px;
+  padding: clamp(56px, 8vw, 98px) 20px;
 }
 
 .page-content h1 {
-  font-size: clamp(2rem, 4.4vw, 3.35rem);
+  font-size: clamp(2rem, 4.1vw, 3.1rem);
   margin: 0 0 20px;
 }
 
 .page-content h2 {
-  font-size: clamp(1.35rem, 2.5vw, 1.85rem);
+  font-size: clamp(1.3rem, 2.3vw, 1.78rem);
   margin-top: 42px;
 }
 
 .lede {
-  font-size: 1.22rem;
+  font-size: 1.16rem;
 }
 
 .subtitle {
   color: var(--gold);
   font-family: var(--serif);
-  font-size: clamp(1.25rem, 2.4vw, 1.8rem);
+  font-size: clamp(1.18rem, 2.2vw, 1.65rem);
   font-weight: 700;
   margin: -8px 0 18px;
 }
 
 .pull-quote {
   background: var(--soft-panel);
-  border-left: 6px solid var(--gold);
+  border-left: 4px solid var(--gold);
   margin: 34px 0;
   padding: 24px clamp(22px, 4vw, 38px);
 }
@@ -367,7 +464,7 @@ a {
 .pull-quote p {
   color: var(--ink);
   font-family: var(--serif);
-  font-size: clamp(1.25rem, 2.6vw, 2rem);
+  font-size: clamp(1.18rem, 2.4vw, 1.8rem);
   line-height: 1.5;
   margin: 0;
 }
@@ -398,12 +495,12 @@ a {
 
 .resource-index {
   display: grid;
-  gap: 16px;
+  gap: 14px;
   margin-top: 28px;
 }
 
 .resource-callout {
-  background: var(--panel);
+  background: var(--soft-panel);
   border: 1px solid var(--line);
   color: var(--ink);
   margin: 26px 0 34px;
@@ -413,7 +510,7 @@ a {
 .resource-callout span {
   color: var(--gold);
   display: block;
-  font-size: 0.76rem;
+  font-size: 0.74rem;
   font-weight: 700;
   letter-spacing: 0.12em;
   margin-bottom: 8px;
@@ -424,18 +521,15 @@ a {
   margin-top: 0;
 }
 
-.resource-callout p {
+.resource-callout p,
+.resource-callout--light p {
   color: var(--muted);
 }
 
 .resource-callout--light {
-  background: var(--panel);
+  background: var(--soft-panel);
   border: 1px solid var(--line);
   color: var(--ink);
-}
-
-.resource-callout--light p {
-  color: var(--muted);
 }
 
 .course-list {
@@ -458,7 +552,7 @@ a {
 .course-lesson span,
 .course-lesson em {
   color: var(--gold);
-  font-size: 0.76rem;
+  font-size: 0.74rem;
   font-style: normal;
   font-weight: 700;
   letter-spacing: 0.1em;
@@ -467,48 +561,18 @@ a {
 
 .course-lesson strong {
   font-family: var(--serif);
-  font-size: 1.14rem;
+  font-size: 1.12rem;
 }
 
-.video-library {
-  display: grid;
-  gap: 14px;
-  margin: 20px 0 42px;
-}
-
-.video-card {
-  background: var(--panel);
-  border: 1px solid var(--line);
-  display: block;
-  padding: 20px;
-  text-decoration: none;
-}
-
-.video-card span {
-  color: var(--gold);
-  display: block;
-  font-size: 0.76rem;
-  font-weight: 700;
-  letter-spacing: 0.1em;
-  margin-bottom: 8px;
-  text-transform: uppercase;
-}
-
-.video-card h2 {
-  font-size: clamp(1.15rem, 2.2vw, 1.55rem);
-  margin: 0 0 8px;
-}
-
-.video-card p {
-  margin-bottom: 0;
-}
-
+.video-library,
 .book-list {
   display: grid;
   gap: 14px;
-  margin: 20px 0 42px;
+  margin-top: 20px;
+  margin-bottom: 42px;
 }
 
+.video-card,
 .book-card {
   background: var(--panel);
   border: 1px solid var(--line);
@@ -517,21 +581,24 @@ a {
   text-decoration: none;
 }
 
+.video-card span,
 .book-card span {
   color: var(--gold);
   display: block;
-  font-size: 0.76rem;
+  font-size: 0.74rem;
   font-weight: 700;
   letter-spacing: 0.1em;
   margin-bottom: 8px;
   text-transform: uppercase;
 }
 
+.video-card h2,
 .book-card h2 {
-  font-size: clamp(1.15rem, 2.2vw, 1.55rem);
+  font-size: clamp(1.12rem, 2.1vw, 1.48rem);
   margin: 0 0 8px;
 }
 
+.video-card p,
 .book-card p {
   margin-bottom: 0;
 }
@@ -544,8 +611,8 @@ a {
 
 .publication-hero h1 {
   font-family: var(--serif);
-  font-size: clamp(2.35rem, 6vw, 4.6rem);
-  letter-spacing: 0.08em;
+  font-size: clamp(2.2rem, 5.4vw, 4.1rem);
+  letter-spacing: 0.04em;
   line-height: 1.08;
   margin: 0 0 16px;
   text-transform: uppercase;
@@ -563,7 +630,7 @@ a {
 
 .publication-section h2 {
   border-bottom: 1px solid var(--line);
-  font-size: clamp(1.35rem, 2.4vw, 2rem);
+  font-size: clamp(1.3rem, 2.3vw, 1.9rem);
   padding-bottom: 12px;
 }
 
@@ -574,7 +641,7 @@ a {
 }
 
 .tool-list__item {
-  background: var(--blue);
+  background: var(--blue-dark);
   color: var(--paper);
   display: block;
   padding: 22px;
@@ -582,9 +649,9 @@ a {
 }
 
 .tool-list__item span {
-  color: var(--gold);
+  color: #d3b06e;
   display: block;
-  font-size: 0.76rem;
+  font-size: 0.74rem;
   font-weight: 700;
   letter-spacing: 0.12em;
   margin-bottom: 8px;
@@ -593,25 +660,15 @@ a {
 
 .tool-list__item strong {
   font-family: var(--serif);
-  font-size: 1.25rem;
-}
-
-.site-footer {
-  align-items: center;
-  background: var(--blue);
-  color: var(--paper);
-  display: flex;
-  flex-wrap: wrap;
-  gap: 12px 24px;
-  justify-content: space-between;
-  padding: 28px clamp(20px, 5vw, 64px);
+  font-size: 1.22rem;
 }
 
 .text-link {
-  color: var(--gold);
+  color: var(--blue);
   display: inline-flex;
+  font-size: 0.82rem;
   font-weight: 700;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.05em;
   margin-top: 10px;
   text-decoration: none;
   text-transform: uppercase;
@@ -623,7 +680,7 @@ a {
 
 .mini-about {
   align-items: center;
-  background: var(--panel);
+  background: var(--soft-panel);
   border-top: 1px solid var(--line);
   color: var(--ink);
   display: grid;
@@ -639,7 +696,7 @@ a {
 
 .mini-about h2 {
   color: var(--ink);
-  font-size: clamp(1.45rem, 3vw, 2.3rem);
+  font-size: clamp(1.35rem, 2.5vw, 1.9rem);
   letter-spacing: 0;
   line-height: 1.2;
   margin-bottom: 14px;
@@ -664,6 +721,17 @@ a {
   width: clamp(62px, 9vw, 92px);
 }
 
+.site-footer {
+  align-items: center;
+  background: var(--blue-dark);
+  color: var(--paper);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 24px;
+  justify-content: space-between;
+  padding: 28px clamp(20px, 5vw, 64px);
+}
+
 .site-footer p {
   margin: 0;
 }
@@ -677,10 +745,16 @@ a {
   .feature-grid,
   .article-grid,
   .recommended-grid,
+  .recommended-list,
   .guide-grid,
   .section--split,
+  .hero,
   .mini-about {
     grid-template-columns: 1fr;
+  }
+
+  .hero {
+    padding-top: 44px;
   }
 
   .resource-meta div {
