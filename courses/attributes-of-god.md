@@ -2,6 +2,7 @@
 title: Attributes of God
 description: A video course on the doctrine of God.
 layout: page
+video_modal: true
 permalink: /courses/attributes-of-god/
 ---
 

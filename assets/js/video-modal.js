@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-  var videoCards = document.querySelectorAll('.video-card[href*="youtube.com"], .video-card[href*="youtu.be"]');
+  var videoCards = document.querySelectorAll('.video-card[href*="youtube.com"], .video-card[href*="youtu.be"], .course-lesson[href*="youtube.com"], .course-lesson[href*="youtu.be"]');
 
   if (!videoCards.length) {
     return;
@@ -64,7 +64,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
       event.preventDefault();
       lastFocused = card;
-      title.textContent = card.querySelector('h2') ? card.querySelector('h2').textContent : 'Selected Teaching';
+      var titleElement = card.querySelector('h2') || card.querySelector('strong');
+      title.textContent = titleElement ? titleElement.textContent : 'Selected Teaching';
       externalLink.href = card.href;
       frame.innerHTML = '<iframe src="https://www.youtube-nocookie.com/embed/' + videoId + '?autoplay=1&rel=0" title="' + title.textContent.replace(/"/g, '&quot;') + '" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>';
       modal.classList.add('is-open');

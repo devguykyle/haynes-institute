@@ -2,6 +2,7 @@
 title: Preaching 1
 description: Selected video resources on sermon preparation, illustration, and delivery.
 layout: page
+video_modal: true
 permalink: /courses/preaching-1/
 ---
 

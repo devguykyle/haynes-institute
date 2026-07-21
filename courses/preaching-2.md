@@ -2,6 +2,7 @@
 title: Preaching 2
 description: The Preaching Class, a longer course on preaching by John Piper.
 layout: page
+video_modal: true
 permalink: /courses/preaching-2/
 ---
 

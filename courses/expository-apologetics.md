@@ -2,6 +2,7 @@
 title: Expository Apologetics
 description: A three-part video course on expository apologetics.
 layout: page
+video_modal: true
 permalink: /courses/expository-apologetics/
 ---
 
