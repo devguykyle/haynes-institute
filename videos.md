@@ -3,13 +3,22 @@ title: Video Library
 description: Selected video resources for doctrine, church life, preaching, apologetics, missions, and Christian formation.
 layout: page
 permalink: /videos/
+page_class: wide-page
 ---
 
 # Video Library
 
 Selected video resources for doctrine, church life, preaching, apologetics, missions, and Christian formation.
 
-## Doctrine and Christian Living
+<nav class="library-jump" aria-label="Video categories">
+  <a href="#doctrine-and-christian-living">Doctrine and Christian Living</a>
+  <a href="#church-worship-and-ministry">Church, Worship, and Ministry</a>
+  <a href="#preaching-and-apologetics">Preaching and Apologetics</a>
+  <a href="#missions-africa-and-the-global-church">Missions, Africa, and Global Church</a>
+  <a href="#conrad-mbewe-sermons-and-addresses">Conrad Mbewe</a>
+</nav>
+
+## <span id="doctrine-and-christian-living">Doctrine and Christian Living</span>
 
 <div class="video-library">
   <a class="video-card" href="https://www.youtube.com/watch?v=wYmj49J_nRI">
@@ -59,7 +68,7 @@ Selected video resources for doctrine, church life, preaching, apologetics, miss
   </a>
 </div>
 
-## Church, Worship, and Ministry
+## <span id="church-worship-and-ministry">Church, Worship, and Ministry</span>
 
 <div class="video-library">
   <a class="video-card" href="https://www.youtube.com/watch?v=SakyP8sPOSk">
@@ -104,7 +113,7 @@ Selected video resources for doctrine, church life, preaching, apologetics, miss
   </a>
 </div>
 
-## Preaching and Apologetics
+## <span id="preaching-and-apologetics">Preaching and Apologetics</span>
 
 <div class="video-library">
   <a class="video-card" href="{{ '/courses/preaching-1/' | relative_url }}">
@@ -124,7 +133,7 @@ Selected video resources for doctrine, church life, preaching, apologetics, miss
   </a>
 </div>
 
-## Missions, Africa, and the Global Church
+## <span id="missions-africa-and-the-global-church">Missions, Africa, and the Global Church</span>
 
 <div class="video-library">
   <a class="video-card" href="https://www.youtube.com/watch?v=AG_sql7-oVk">
@@ -148,7 +157,7 @@ Selected video resources for doctrine, church life, preaching, apologetics, miss
   </a>
 </div>
 
-## Conrad Mbewe Sermons and Addresses
+## <span id="conrad-mbewe-sermons-and-addresses">Conrad Mbewe Sermons and Addresses</span>
 
 <div class="video-library">
   <a class="video-card" href="https://www.youtube.com/watch?v=-FQD4WIREo0">

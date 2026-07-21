@@ -24,7 +24,7 @@ body_class: home
 <section class="section recommended-section">
   <div class="section__header">
     <p class="eyebrow">Recommended Next</p>
-    <h2>Read after you begin.</h2>
+    <h2>Your next good read.</h2>
   </div>
   <div class="recommended-list">
     <a class="article-card" href="https://www.monergism.com/thethreshold/sdg/sibbes/The%20Bruised%20Reed%20and%20Smoking%20-%20Richard%20Sibbes.pdf">
