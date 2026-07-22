@@ -694,6 +694,18 @@ a {
   line-height: 1.68;
 }
 
+
+.publication-cover {
+  margin: 0 auto 46px;
+  max-width: 1120px;
+}
+
+.publication-cover img {
+  border: 1px solid var(--line);
+  display: block;
+  height: auto;
+  width: 100%;
+}
 .publication-section {
   margin-top: 46px;
 }

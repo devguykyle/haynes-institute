@@ -13,6 +13,8 @@ video_modal: true
   <p>The Heritage American is a metropolitan publication for Christians seeking to live faithfully in the civic square with wisdom, courage, and practical obedience.</p>
 </section>
 
+<figure class="publication-cover"><img src="{{ '/assets/images/heritage-american-cover.png' | relative_url }}" alt="Pastel illustration of Christian heritage through preaching, writing, family worship, teaching, marriage, civic trust, and service."></figure>
+
 <section class="publication-section">
   <h2>About the Publication</h2>
   <div class="feature-grid">
