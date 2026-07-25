@@ -126,4 +126,9 @@ Selected conversations, addresses, and lectures for Christian men and households
     <h2>Keynote Address at National Alliance for Relationship and Marriage Education Summit</h2>
     <p>Delano Squires</p>
   </a>
+  <a class="video-card" href="https://www.youtube.com/watch?v=8Sx67yjFInE">
+    <span>Education</span>
+    <h2>Education as Discipleship</h2>
+    <p>Virgil Walker, Gear Up Talks</p>
+  </a>
 </div>
