@@ -1,4 +1,4 @@
-﻿---
+---
 title: Why Do You Help the Wicked?
 category: Public Theology
 summary: A rebuke and exhortation from Jehoshaphat's alliance with Ahab, applied to ethnic idolatry, pastoral fidelity, and the legacy of King and Jackson.
