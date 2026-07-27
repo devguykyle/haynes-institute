@@ -4,7 +4,7 @@ category: Public Theology
 summary: A rebuke and exhortation from Jehoshaphat's alliance with Ahab, applied to ethnic idolatry, pastoral fidelity, and the legacy of King and Jackson.
 date: 2026-07-27
 ---
-
+# Why Do You Help The Wicked?
 One of the great dangers of our day is ethnic idolatry. Idolatry is not limited to worshipping a named god, nor is it when we simply show affection for some otherwise good gift. It is when our affections for good things become disordered. Ethnic idolatry specifically is a prizing of our ethnic background to the detriment of any Christian virtue. In the example of king Jehoshaphat we can see what these disordered affections look like and the damage they cause the people of God. Jehoshaphat's failure was that he loved his people in a way that made him willing to help the enemies of God.
 
 That is the warning of 2 Chronicles 18-19. A good king, a faithful king who had done much good in Judah, joined himself to a wicked man who displeased God because that man was his kinsman. Jehoshaphat, the king of Judah, and Ahab – the wicked king of Israel – had shared blood, shared history, shared fathers, shared enemies, and shared national memory. Jehoshaphat saw Israel and Judah as divided, but not so divided that he could not make common cause with them. But his unity with Ahab was disordered affection not faithfulness.
