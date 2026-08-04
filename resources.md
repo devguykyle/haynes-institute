@@ -37,6 +37,11 @@ Browse the first shelf of sources and historical entries. Each page can grow int
   {% for resource in resources %}
     <a class="resource-index__item" href="{{ resource.url | relative_url }}">
       <span>{{ resource.category }}</span>
+      {% assign badge_name = resource.author %}
+      {% if badge_name == "The Haynes Institute" and resource.people %}
+        {% assign badge_name = resource.people | first %}
+      {% endif %}
+      {% include author-badge.html author=badge_name %}
       <h2>{{ resource.title }}</h2>
       <p>{{ resource.summary }}</p>
     </a>

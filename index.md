@@ -29,6 +29,7 @@ body_class: home
   <div class="recommended-list">
     <a class="article-card" href="https://www.monergism.com/thethreshold/sdg/sibbes/The%20Bruised%20Reed%20and%20Smoking%20-%20Richard%20Sibbes.pdf">
       <span>Devotional</span>
+      {% include author-badge.html author="Richard Sibbes" %}
       <h3>A Bruised Reed</h3>
       <p>Richard Sibbes on Christ's tenderness toward weak, wounded, and repentant saints.</p>
     </a>
@@ -39,6 +40,7 @@ body_class: home
     </a>
     <a class="article-card" href="{{ '/resources/joseph-h-jackson-what-then-must-we-do-now/' | relative_url }}">
       <span>Address</span>
+      {% include author-badge.html author="Joseph H. Jackson" %}
       <h3>What, Then, Must We Do Now?</h3>
       <p>Joseph H. Jackson on responsibility, one standard, moral discipline, and the one gospel of Jesus Christ.</p>
     </a>
@@ -53,16 +55,19 @@ body_class: home
   <div class="article-grid">
     <a class="article-card" href="{{ '/resources/lemuel-haynes-nature-of-regeneration/' | relative_url }}">
       <span>Sermon Excerpt</span>
+      {% include author-badge.html author="Lemuel Haynes" %}
       <h3>The Nature of Regeneration</h3>
       <p>Haynes teaches that the new birth is the immediate work of the Holy Spirit, and that its fruits are love to God, repentance, faith in Christ, holy obedience, and growth toward glory.</p>
     </a>
     <a class="article-card" href="{{ '/resources/protest-or-production-1961-black-baptist-schism/' | relative_url }}">
       <span>Essay</span>
+      {% include author-badge.html author="Joseph H. Jackson" %}
       <h3>Protest or Production</h3>
       <p>A reflection on the 1961 Black Baptist schism, Joseph H. Jackson, and the older stream of Black Protestant thought that prized Christian formation, civic order, and institution-building.</p>
     </a>
     <a class="article-card" href="{{ '/resources/joseph-h-jackson-what-then-must-we-do-now/' | relative_url }}">
       <span>Address</span>
+      {% include author-badge.html author="Joseph H. Jackson" %}
       <h3>What, Then, Must We Do Now?</h3>
       <p>Jackson calls for civil responsibility, one American standard, moral discipline, and the one gospel of Jesus Christ.</p>
     </a>

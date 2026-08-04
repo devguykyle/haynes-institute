@@ -7,6 +7,11 @@ permalink: /files/hammon/
 
 # The Hammon File
 
+<figure class="author-profile">
+  <img src="{{ '/assets/images/authors/jupiter-hammon.jpg' | relative_url }}" alt="Illustrated portrait of Jupiter Hammon">
+  <figcaption>Jupiter Hammon</figcaption>
+</figure>
+
 Jupiter Hammon was one of the founding figures of Black American letters and one of the earliest Black Protestant writers in North America. Born in 1711 on Long Island, New York, Hammon became known as a poet, essayist, exhorter, and Christian moral teacher. His first published poem, "An Evening Thought: Salvation by Christ, with Penitential Cries," appeared in 1760 and made him the first published African American poet. His later works include addresses, poems, and religious exhortations, most famously "An Address to the Negroes in the State of New-York," delivered to the African Society in New York and printed in 1787.
 
 Hammon's importance is not merely literary. His writings are saturated with Protestant concern for salvation, repentance, Scripture, heaven, judgment, and the duty of holy living. He wrote as a Christian who believed words should awaken the conscience and direct the reader toward Christ. His poems are full of biblical language, especially the language of sin, mercy, death, eternity, and redemption. He is often studied as an early African American author, but he should also be read as an evangelical Protestant voice whose literary work was an instrument of exhortation.

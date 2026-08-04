@@ -7,6 +7,11 @@ permalink: /files/haynes/
 
 # The Haynes File
 
+<figure class="author-profile">
+  <img src="{{ '/assets/images/authors/lemuel-haynes.jpg' | relative_url }}" alt="Illustrated portrait of Lemuel Haynes">
+  <figcaption>Lemuel Haynes</figcaption>
+</figure>
+
 Lemuel Haynes stands among the most remarkable Protestant ministers in early American history. Born in West Hartford, Connecticut, in 1753, Haynes became a Congregational minister, a preacher of evangelical Calvinism, and one of the earliest Black theological writers in the United States. He was ordained in 1785 and served churches in Connecticut, Vermont, and New York, most notably the West Parish Church of Rutland, Vermont, where he ministered for roughly thirty years. Middlebury College later granted him an honorary Master of Arts degree, a public recognition of his learning, usefulness, and reputation as a preacher.
 
 Haynes should be remembered first as a minister of the Word. His sermons are marked by the doctrinal grammar of New England Protestantism: the holiness of God, the inability of fallen man, the necessity of the new birth, the sufficiency of Christ, the moral obligation of all hearers to repent and believe, and the glory of divine sovereignty. He read and absorbed the evangelical Calvinist world of the eighteenth century, including the theological influence of Jonathan Edwards, George Whitefield, and the wider Puritan and post-Puritan tradition. His preaching did not treat doctrine as decoration. Theology governed the sermon, the conscience, the church, and the household.

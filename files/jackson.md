@@ -7,6 +7,11 @@ permalink: /files/jackson/
 
 # The Jackson File
 
+<figure class="author-profile">
+  <img src="{{ '/assets/images/authors/joseph-h-jackson.jpg' | relative_url }}" alt="Illustrated portrait of Joseph H. Jackson">
+  <figcaption>Joseph H. Jackson</figcaption>
+</figure>
+
 Joseph Harrison Jackson was one of the most significant Black Baptist leaders of the twentieth century. Born in Mississippi in 1900, Jackson was ordained as a Baptist minister at a young age and pursued serious theological education, earning degrees from Jackson College, Colgate Rochester Divinity School, and Creighton University. In 1941 he became pastor of Olivet Baptist Church in Chicago, one of the most prominent Black churches in America. He remained connected to Olivet for the rest of his life and served as president of the National Baptist Convention, U.S.A., Inc. from 1953 into the early 1980s.
 
 Jackson's public reputation is often reduced to his disagreements with the activist wing of the civil rights era. That reduction misses the center of his work. Jackson was a Baptist churchman, institutional builder, preacher, denominational statesman, and moral theologian of public responsibility. His addresses return again and again to the gospel, the church, lawful order, personal repentance, education, economic development, family strength, and the formation of disciplined Christian people. He believed the church's deepest power was not in agitation but in conversion, preaching, teaching, worship, stewardship, and sanctified character.

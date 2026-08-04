@@ -1,0 +1,20 @@
+{% assign author_name = include.author | default: include.name %}
+{% assign author_image = nil %}
+{% case author_name %}
+  {% when "Lemuel Haynes" %}
+    {% assign author_image = "/assets/images/authors/lemuel-haynes.jpg" %}
+  {% when "Jupiter Hammon" %}
+    {% assign author_image = "/assets/images/authors/jupiter-hammon.jpg" %}
+  {% when "Joseph H. Jackson" %}
+    {% assign author_image = "/assets/images/authors/joseph-h-jackson.jpg" %}
+  {% when "John Eliot" %}
+    {% assign author_image = "/assets/images/authors/john-eliot.jpg" %}
+  {% when "Richard Sibbes" %}
+    {% assign author_image = "/assets/images/authors/richard-sibbes.jpg" %}
+{% endcase %}
+{% if author_image %}
+  <span class="author-badge {{ include.class }}">
+    <img src="{{ author_image | relative_url }}" alt="Illustrated portrait of {{ author_name }}">
+    <span>{{ author_name }}</span>
+  </span>
+{% endif %}

@@ -9,17 +9,20 @@ layout: page
 These catalogs gather resources by person so readers can move directly into a particular author's writings, addresses, sermons, and related historical material.
 
 <div class="resource-index">
-  <a class="resource-index__item" href="{{ '/files/haynes/' | relative_url }}">
+  <a class="resource-index__item resource-index__item--with-image" href="{{ '/files/haynes/' | relative_url }}">
+    <img class="author-thumb" src="{{ '/assets/images/authors/lemuel-haynes.jpg' | relative_url }}" alt="Illustrated portrait of Lemuel Haynes">
     <span>Lemuel Haynes</span>
     <h2>The Haynes File</h2>
     <p>Sermons, theological writings, and resources related to Lemuel Haynes.</p>
   </a>
-  <a class="resource-index__item" href="{{ '/files/jackson/' | relative_url }}">
+  <a class="resource-index__item resource-index__item--with-image" href="{{ '/files/jackson/' | relative_url }}">
+    <img class="author-thumb" src="{{ '/assets/images/authors/joseph-h-jackson.jpg' | relative_url }}" alt="Illustrated portrait of Joseph H. Jackson">
     <span>Joseph H. Jackson</span>
     <h2>The Jackson File</h2>
     <p>Addresses, essays, and resources related to Joseph H. Jackson and the National Baptist tradition.</p>
   </a>
-  <a class="resource-index__item" href="{{ '/files/hammon/' | relative_url }}">
+  <a class="resource-index__item resource-index__item--with-image" href="{{ '/files/hammon/' | relative_url }}">
+    <img class="author-thumb" src="{{ '/assets/images/authors/jupiter-hammon.jpg' | relative_url }}" alt="Illustrated portrait of Jupiter Hammon">
     <span>Jupiter Hammon</span>
     <h2>The Hammon File</h2>
     <p>Addresses, poems, and resources related to Jupiter Hammon.</p>

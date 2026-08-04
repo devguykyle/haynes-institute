@@ -52,6 +52,7 @@ Downloadable books, catechisms, confessions, and ministry resources for doctrine
   </a>
   <a class="book-card" href="https://www.monergism.com/thethreshold/sdg/sibbes/The%20Bruised%20Reed%20and%20Smoking%20-%20Richard%20Sibbes.pdf">
     <span>Devotional</span>
+    {% include author-badge.html author="Richard Sibbes" %}
     <h2>A Bruised Reed</h2>
     <p>Richard Sibbes</p>
   </a>
