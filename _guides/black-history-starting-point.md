@@ -1,11 +1,11 @@
 ---
-title: Where Should I Start Learning Black History?
+title: Where Should I Start Learning about Historical Theology
 kicker: History
 summary: A beginner's path from primary sources to major eras, people, and institutions.
 order: 1
 ---
 
-# Where Should I Start Learning Black History?
+# Where Should I Start Learning about Historical Theology
 
 Start with sources and timelines before arguments. A reader should know the broad shape of the story, then return to the debates with better judgment.
 

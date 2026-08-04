@@ -1,11 +1,11 @@
 ---
-title: The Black Church as a School of Memory
+title: How To Sift Through A Theological and Cultural Inheritance
 kicker: Theology
 summary: A guide for studying sermons, catechisms, songs, institutions, and public leadership.
 order: 3
 ---
 
-# The Black Church as a School of Memory
+# How To Sift Through A Theological and Cultural Inheritance
 
 The Black church has often been more than a Sunday institution. It has been a place of worship, education, leadership, mutual aid, political courage, and family formation.
 
