@@ -480,6 +480,53 @@ a {
   margin: 0;
 }
 
+
+.resource-page--with-sidebar {
+  align-items: start;
+  display: grid;
+  gap: clamp(28px, 5vw, 56px);
+  grid-template-columns: minmax(0, 1fr) minmax(220px, 280px);
+  max-width: 1120px;
+}
+
+.resource-page__main {
+  min-width: 0;
+}
+
+.author-sidebar {
+  border-bottom: 1px solid var(--line);
+  border-top: 1px solid var(--line);
+  padding: 22px 0;
+  position: sticky;
+  top: 92px;
+}
+
+.author-sidebar img {
+  aspect-ratio: 1;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  display: block;
+  height: 118px;
+  margin-bottom: 18px;
+  object-fit: cover;
+  width: 118px;
+}
+
+.author-sidebar h2 {
+  font-family: var(--serif);
+  font-size: 1.22rem;
+  letter-spacing: 0;
+  line-height: 1.2;
+  margin: 0 0 12px;
+  text-transform: none;
+}
+
+.author-sidebar p:not(.eyebrow) {
+  color: var(--muted);
+  font-size: 0.92rem;
+  line-height: 1.65;
+  margin: 0 0 16px;
+}
 .resource-meta {
   border-bottom: 1px solid var(--line);
   border-top: 1px solid var(--line);
@@ -979,6 +1026,7 @@ a {
     padding-top: 44px;
   }
 
+  .resource-page--with-sidebar,
   .resource-action-grid,
   .resource-index--grid,
   .resource-index--three,
@@ -987,6 +1035,10 @@ a {
   .book-list,
   .resource-meta div {
     grid-template-columns: 1fr;
+  }
+
+  .author-sidebar {
+    position: static;
   }
 
   .course-lesson {

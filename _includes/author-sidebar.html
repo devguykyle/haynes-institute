@@ -1,0 +1,39 @@
+{% assign author_name = include.author | default: include.name %}
+{% assign author_image = nil %}
+{% assign author_url = nil %}
+{% assign author_bio = nil %}
+{% case author_name %}
+  {% when "Lemuel Haynes" %}
+    {% assign author_image = "/assets/images/authors/lemuel-haynes.jpg" %}
+    {% assign author_url = "/files/haynes/" %}
+    {% assign author_bio = "Lemuel Haynes was a Congregational minister, evangelical Calvinist preacher, and one of the earliest Black theological writers in the United States. His sermons join doctrinal precision, pastoral gravity, and confidence in the sovereign grace of God." %}
+  {% when "Jupiter Hammon" %}
+    {% assign author_image = "/assets/images/authors/jupiter-hammon.jpg" %}
+    {% assign author_url = "/files/hammon/" %}
+    {% assign author_bio = "Jupiter Hammon was an early Black American Protestant poet, essayist, and Christian moral teacher. His writings press readers toward salvation in Christ, repentance, Scripture, holy living, and readiness for eternity." %}
+  {% when "Joseph H. Jackson" %}
+    {% assign author_image = "/assets/images/authors/joseph-h-jackson.jpg" %}
+    {% assign author_url = "/files/jackson/" %}
+    {% assign author_bio = "Joseph H. Jackson was a Baptist pastor, denominational statesman, and president of the National Baptist Convention. His work joined gospel preaching, moral responsibility, household order, lawful conduct, and institutional strength." %}
+  {% when "William Bishop Johnson" %}
+    {% assign author_image = "/assets/images/authors/william-bishop-johnson.jpg" %}
+    {% assign author_url = "/files/johnson/" %}
+    {% assign author_bio = "William Bishop Johnson was a Black Baptist pastor, editor, and denominational builder. His work stood at the meeting place of pulpit, press, church order, education, public morals, and Christian responsibility." %}
+  {% when "John Eliot" %}
+    {% assign author_image = "/assets/images/authors/john-eliot.jpg" %}
+    {% assign author_bio = "John Eliot was an English Puritan minister and missionary whose labors joined preaching, catechesis, translation, and pastoral concern for the spread of Protestant Christianity." %}
+  {% when "Richard Sibbes" %}
+    {% assign author_image = "/assets/images/authors/richard-sibbes.jpg" %}
+    {% assign author_bio = "Richard Sibbes was an English Puritan theologian and preacher remembered for devotional warmth, pastoral tenderness, and a deeply Christ-centered account of Christian consolation." %}
+{% endcase %}
+{% if author_image and author_bio %}
+  <aside class="author-sidebar" aria-label="About {{ author_name }}">
+    <img src="{{ author_image | relative_url }}" alt="Illustrated portrait of {{ author_name }}">
+    <p class="eyebrow">About the Author</p>
+    <h2>{{ author_name }}</h2>
+    <p>{{ author_bio }}</p>
+    {% if author_url %}
+      <a class="text-link" href="{{ author_url | relative_url }}">Read the {{ author_name | split: ' ' | last }} File</a>
+    {% endif %}
+  </aside>
+{% endif %}
