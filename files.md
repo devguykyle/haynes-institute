@@ -27,4 +27,10 @@ These catalogs gather resources by person so readers can move directly into a pa
     <h2>The Hammon File</h2>
     <p>Addresses, poems, and resources related to Jupiter Hammon.</p>
   </a>
+  <a class="resource-index__item resource-index__item--with-image" href="{{ '/files/johnson/' | relative_url }}">
+    <img class="author-thumb" src="{{ '/assets/images/authors/william-bishop-johnson.jpg' | relative_url }}" alt="Illustrated portrait of William Bishop Johnson">
+    <span>William Bishop Johnson</span>
+    <h2>The Johnson File</h2>
+    <p>Sermons, addresses, and editorial work related to William Bishop Johnson and the National Baptist tradition.</p>
+  </a>
 </div>
