@@ -110,7 +110,13 @@ body_class: home
     {% assign featured_resources = site.resources | where: "featured", true | sort: "title" %}
     {% for resource in featured_resources limit: 3 %}
       {% unless resource.title == "Old AME Catechisms" %}
-        <a class="source-list__item" href="{{ resource.url | relative_url }}">
+        {% assign resource_link = resource.url %}
+        {% if resource.title == "Great Men and Their Deeds" %}
+          {% assign resource_link = '/files/' %}
+        {% elsif resource.title == "Lemuel Haynes' Sermons" %}
+          {% assign resource_link = '/lemuel-haynes-works/' %}
+        {% endif %}
+        <a class="source-list__item" href="{{ resource_link | relative_url }}">
           <span>{{ resource.category }}</span>
           <strong>{{ resource.title }}</strong>
         </a>
