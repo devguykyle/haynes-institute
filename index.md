@@ -98,12 +98,18 @@ body_class: home
     <p class="eyebrow">Featured Collections</p>
   </div>
   <div class="source-list">
+    <a class="source-list__item" href="{{ '/catechisms-confessions-worship/' | relative_url }}">
+      <span>Doctrine and Worship</span>
+      <strong>Catechisms, Confessions, and Worship</strong>
+    </a>
     {% assign featured_resources = site.resources | where: "featured", true | sort: "title" %}
-    {% for resource in featured_resources limit: 4 %}
-      <a class="source-list__item" href="{{ resource.url | relative_url }}">
-        <span>{{ resource.category }}</span>
-        <strong>{{ resource.title }}</strong>
-      </a>
+    {% for resource in featured_resources limit: 3 %}
+      {% unless resource.title == "Old AME Catechisms" %}
+        <a class="source-list__item" href="{{ resource.url | relative_url }}">
+          <span>{{ resource.category }}</span>
+          <strong>{{ resource.title }}</strong>
+        </a>
+      {% endunless %}
     {% endfor %}
   </div>
 </section>

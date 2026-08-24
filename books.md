@@ -12,21 +12,35 @@ Downloadable books, catechisms, confessions, and ministry resources for doctrine
 ## Catechisms, Confessions, and Worship
 
 <div class="book-list">
+  <a class="book-card" href="{{ '/catechisms-confessions-worship/' | relative_url }}">
+    <span>Collection</span>
+    <h2>Catechisms, Confessions, and Worship</h2>
+    <p>Browse doctrine and worship texts with tradition, date, and short descriptions for each work.</p>
+  </a>
+  <a class="book-card" href="{{ '/assets/downloads/theological-kernels-reader-edition.pdf' | relative_url }}">
+    <span>Reformed Baptist Catechism · Reader Edition · Early 20th Century</span>
+    <h2>Theological Kernels: A Baptist Catechism of Doctrine and Church Polity</h2>
+    <p>A catechetical work arranged for doctrinal instruction in God, man, the church, and the future life.</p>
+  </a>
   <a class="book-card" href="https://www.monergism.com/thethreshold/sdg/westminster/Westminster%20Shorter%20Catechism.pdf">
-    <span>Catechism</span>
+    <span>Presbyterian/Reformed · Catechism · 1647</span>
     <h2>Westminster Shorter Catechism</h2>
+    <p>A concise doctrinal teaching tool from the Westminster Assembly.</p>
   </a>
   <a class="book-card" href="https://www.monergism.com/thethreshold/sdg/fisher/Fisher's%20Catechism.pdf">
-    <span>Catechism</span>
+    <span>Presbyterian/Reformed · Exposition · 1753</span>
     <h2>Westminster Shorter Catechism Explained</h2>
+    <p>James Fisher's expanded explanation of the Shorter Catechism.</p>
   </a>
   <a class="book-card" href="https://www.monergism.com/thethreshold/sdg/baptists/London%20Baptist%20Confession.pdf">
-    <span>Confession</span>
+    <span>Particular Baptist · Confession · 1689</span>
     <h2>The Second London Baptist Confession of Faith</h2>
+    <p>A historic Reformed Baptist confession of doctrine, church order, and worship.</p>
   </a>
   <a class="book-card" href="http://justus.anglican.org/resources/bcp/bcp79.pdf">
-    <span>Worship</span>
+    <span>Anglican · Worship and Prayer Book · 1979 Edition</span>
     <h2>The Book of Common Prayer</h2>
+    <p>A liturgical prayer book containing orders for worship, prayers, collects, and church rites.</p>
   </a>
 </div>
 
