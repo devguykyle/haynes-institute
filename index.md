@@ -66,7 +66,12 @@ body_class: home
       <h3>What is Regeneration?</h3>
       <p>Love sets the new birth before the reader as a necessary work of the Holy Spirit that renews the heart and orders the life toward God.</p>
     </a>
-    <a class="article-card" href="{{ '/resources/william-bishop-johnson-coming-of-shiloh/' | relative_url }}">
+    <a class="article-card" href="{{ '/resources/charles-h-parrish-sanctification/' | relative_url }}">
+      <span>Sermon</span>
+      {% include author-badge.html author="Charles H. Parrish" %}
+      <h3>What is Sanctification</h3>
+      <p>Parrish teaches sanctification as consecration to holy service, progressive holiness, and the Spirit's work through the truth of God's Word.</p>
+    </a>    <a class="article-card" href="{{ '/resources/william-bishop-johnson-coming-of-shiloh/' | relative_url }}">
       <span>Missionary Sermon</span>
       {% include author-badge.html author="William Bishop Johnson" %}
       <h3>The Coming of Shiloh</h3>

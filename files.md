@@ -33,7 +33,12 @@ These biographies gather resources by person so readers can move directly into a
     <h2>William Bishop Johnson Biography</h2>
     <p>Sermons, addresses, and editorial work related to William Bishop Johnson and the National Baptist tradition.</p>
   </a>
-  <a class="resource-index__item resource-index__item--with-image" href="{{ '/files/love/' | relative_url }}">
+  <a class="resource-index__item resource-index__item--with-image" href="{{ '/files/parrish/' | relative_url }}">
+    <img class="author-thumb" src="{{ '/assets/images/authors/charles-h-parrish.png' | relative_url }}" alt="Illustrated portrait of Charles H. Parrish">
+    <span>Charles H. Parrish</span>
+    <h2>Charles H. Parrish Biography</h2>
+    <p>Pastoral, educational, missionary, and denominational work related to Charles Henry Parrish Sr.</p>
+  </a>  <a class="resource-index__item resource-index__item--with-image" href="{{ '/files/love/' | relative_url }}">
     <img class="author-thumb" src="{{ '/assets/images/authors/e-k-love.jpg' | relative_url }}" alt="Illustrated portrait of E. K. Love">
     <span>E. K. Love</span>
     <h2>E. K. Love Biography</h2>
