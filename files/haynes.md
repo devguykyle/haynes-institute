@@ -1,11 +1,11 @@
 ---
-title: The Haynes File
+title: Lemuel Haynes Biography
 description: Works and resources related to Lemuel Haynes.
 layout: page
 permalink: /files/haynes/
 ---
 
-# The Haynes File
+# Lemuel Haynes Biography
 
 <figure class="author-profile">
   <img src="{{ '/assets/images/authors/lemuel-haynes.jpg' | relative_url }}" alt="Illustrated portrait of Lemuel Haynes">

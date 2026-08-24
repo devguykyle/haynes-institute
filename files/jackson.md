@@ -1,11 +1,11 @@
 ---
-title: The Jackson File
+title: Joseph H. Jackson Biography
 description: Works and resources related to Joseph H. Jackson.
 layout: page
 permalink: /files/jackson/
 ---
 
-# The Jackson File
+# Joseph H. Jackson Biography
 
 <figure class="author-profile">
   <img src="{{ '/assets/images/authors/joseph-h-jackson.jpg' | relative_url }}" alt="Illustrated portrait of Joseph H. Jackson">

@@ -1,11 +1,11 @@
 ---
-title: The Johnson File
+title: William Bishop Johnson Biography
 description: Works and resources related to William Bishop Johnson.
 layout: page
 permalink: /files/johnson/
 ---
 
-# The Johnson File
+# William Bishop Johnson Biography
 
 <figure class="author-profile">
   <img src="{{ '/assets/images/authors/william-bishop-johnson.jpg' | relative_url }}" alt="Illustrated portrait of William Bishop Johnson">

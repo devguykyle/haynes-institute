@@ -1,11 +1,11 @@
 ---
-title: The Hammon File
+title: Jupiter Hammon Biography
 description: Works and resources related to Jupiter Hammon.
 layout: page
 permalink: /files/hammon/
 ---
 
-# The Hammon File
+# Jupiter Hammon Biography
 
 <figure class="author-profile">
   <img src="{{ '/assets/images/authors/jupiter-hammon.jpg' | relative_url }}" alt="Illustrated portrait of Jupiter Hammon">

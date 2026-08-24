@@ -6,7 +6,8 @@ author: Nannie H. Burroughs
 date_text: September 8, 1955
 status: Transcribed address
 summary: Nannie H. Burroughs calls Black Baptists to a renewed, dogged determination in Christian civilization, moral uplift, self-help, and productive responsibility.
-featured: true
+featured: false
+published: false
 people:
   - Nannie H. Burroughs
 topics:

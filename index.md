@@ -38,7 +38,7 @@ body_class: home
       <h3>The Pastor As Theologian</h3>
       <p>A call for pastors to serve the church with doctrinal clarity and theological conviction.</p>
     </a>
-    <a class="article-card" href="{{ '/resources/joseph-h-jackson-what-then-must-we-do-now/' | relative_url }}">
+    <a class="article-card" href="{{ '/heritage-american/joseph-h-jackson-what-then-must-we-do-now/' | relative_url }}">
       <span>Address</span>
       {% include author-badge.html author="Joseph H. Jackson" %}
       <h3>What, Then, Must We Do Now?</h3>
@@ -59,22 +59,17 @@ body_class: home
       <h3>The Nature of Regeneration</h3>
       <p>Haynes teaches that the new birth is the immediate work of the Holy Spirit, and that its fruits are love to God, repentance, faith in Christ, holy obedience, and growth toward glory.</p>
     </a>
-    <a class="article-card" href="{{ '/resources/protest-or-production-1961-black-baptist-schism/' | relative_url }}">
+    <a class="article-card" href="{{ '/heritage-american/protest-or-production-1961-black-baptist-schism/' | relative_url }}">
       <span>Essay</span>
       {% include author-badge.html author="Joseph H. Jackson" %}
       <h3>Protest or Production</h3>
       <p>A reflection on the 1961 Black Baptist schism, Joseph H. Jackson, and the older stream of Black Protestant thought that prized Christian formation, civic order, and institution-building.</p>
     </a>
-    <a class="article-card" href="{{ '/resources/joseph-h-jackson-what-then-must-we-do-now/' | relative_url }}">
+    <a class="article-card" href="{{ '/heritage-american/joseph-h-jackson-what-then-must-we-do-now/' | relative_url }}">
       <span>Address</span>
       {% include author-badge.html author="Joseph H. Jackson" %}
       <h3>What, Then, Must We Do Now?</h3>
       <p>Jackson calls for civil responsibility, one American standard, moral discipline, and the one gospel of Jesus Christ.</p>
-    </a>
-    <a class="article-card" href="{{ '/resources/nannie-h-burroughs-dogged-determination/' | relative_url }}">
-      <span>Address</span>
-      <h3>Dogged Determination</h3>
-      <p>Nannie H. Burroughs calls for Christian civilization, moral courage, self-help, and a renewed determination too good to miss.</p>
     </a>
   </div>
 </section>

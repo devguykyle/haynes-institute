@@ -2,6 +2,7 @@
 title: "What, Then, Must We Do Now?"
 category: Address
 author: Joseph H. Jackson
+date: 2026-07-20
 date_text: 1969
 status: Transcribed address
 summary: Joseph H. Jackson calls Black Baptists beyond resentment and pampering toward responsibility, one American standard, moral discipline, and the one gospel of Jesus Christ.

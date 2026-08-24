@@ -2,6 +2,7 @@
 title: "Protest or Production: The 1961 Black Baptist Schism"
 category: Essay
 author: The Haynes Institute
+date: 2026-07-22
 date_text: 2026
 status: Original article
 summary: An essay on the 1961 division between the National Baptist Convention and the Progressive National Baptist Convention, contrasting protest politics with Christian formation, civic order, and productive institution-building.
