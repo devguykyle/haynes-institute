@@ -27,6 +27,12 @@ body_class: home
     <h2>Your next good read.</h2>
   </div>
   <div class="recommended-list">
+    <a class="article-card" href="{{ '/resources/e-k-love-what-is-regeneration/' | relative_url }}">
+      <span>Sermon</span>
+      {% include author-badge.html author="E. K. Love" %}
+      <h3>What is Regeneration?</h3>
+      <p>E. K. Love explains the necessity, character, divine agency, and effects of the new birth from John 3:7.</p>
+    </a>
     <a class="article-card" href="https://www.monergism.com/thethreshold/sdg/sibbes/The%20Bruised%20Reed%20and%20Smoking%20-%20Richard%20Sibbes.pdf">
       <span>Devotional</span>
       {% include author-badge.html author="Richard Sibbes" %}
@@ -38,12 +44,7 @@ body_class: home
       <h3>The Pastor As Theologian</h3>
       <p>A call for pastors to serve the church with doctrinal clarity and theological conviction.</p>
     </a>
-    <a class="article-card" href="{{ '/heritage-american/joseph-h-jackson-what-then-must-we-do-now/' | relative_url }}">
-      <span>Address</span>
-      {% include author-badge.html author="Joseph H. Jackson" %}
-      <h3>What, Then, Must We Do Now?</h3>
-      <p>Joseph H. Jackson on responsibility, one standard, moral discipline, and the one gospel of Jesus Christ.</p>
-    </a>
+
   </div>
 </section>
 
@@ -59,17 +60,17 @@ body_class: home
       <h3>The Nature of Regeneration</h3>
       <p>Haynes teaches that the new birth is the immediate work of the Holy Spirit, and that its fruits are love to God, repentance, faith in Christ, holy obedience, and growth toward glory.</p>
     </a>
-    <a class="article-card" href="{{ '/heritage-american/protest-or-production-1961-black-baptist-schism/' | relative_url }}">
-      <span>Essay</span>
-      {% include author-badge.html author="Joseph H. Jackson" %}
-      <h3>Protest or Production</h3>
-      <p>A reflection on the 1961 Black Baptist schism, Joseph H. Jackson, and the older stream of Black Protestant thought that prized Christian formation, civic order, and institution-building.</p>
+    <a class="article-card" href="{{ '/resources/e-k-love-what-is-regeneration/' | relative_url }}">
+      <span>Sermon</span>
+      {% include author-badge.html author="E. K. Love" %}
+      <h3>What is Regeneration?</h3>
+      <p>Love sets the new birth before the reader as a necessary work of the Holy Spirit that renews the heart and orders the life toward God.</p>
     </a>
-    <a class="article-card" href="{{ '/heritage-american/joseph-h-jackson-what-then-must-we-do-now/' | relative_url }}">
-      <span>Address</span>
-      {% include author-badge.html author="Joseph H. Jackson" %}
-      <h3>What, Then, Must We Do Now?</h3>
-      <p>Jackson calls for civil responsibility, one American standard, moral discipline, and the one gospel of Jesus Christ.</p>
+    <a class="article-card" href="{{ '/resources/william-bishop-johnson-coming-of-shiloh/' | relative_url }}">
+      <span>Missionary Sermon</span>
+      {% include author-badge.html author="William Bishop Johnson" %}
+      <h3>The Coming of Shiloh</h3>
+      <p>Johnson preaches Christ as the promised Shiloh, the certainty of God's prophecy, and the gathering of the nations to his reign.</p>
     </a>
   </div>
 </section>

@@ -33,6 +33,14 @@ video_modal: true
   </div>
 </section>
 
+<section class="publication-section publication-section--featured">
+  <p class="eyebrow">Featured Address</p>
+  <a class="resource-index__item" href="{{ '/heritage-american/joseph-h-jackson-what-then-must-we-do-now/' | relative_url }}">
+    <span>Joseph H. Jackson</span>
+    <h2>What, Then, Must We Do Now?</h2>
+    <p>Jackson calls for responsibility, moral discipline, Christian doctrine, and the one gospel of Jesus Christ.</p>
+  </a>
+</section>
 <section class="publication-section">
   <h2>Latest Articles</h2>
   <div class="resource-index resource-index--three">
