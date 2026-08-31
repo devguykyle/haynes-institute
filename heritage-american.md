@@ -15,21 +15,11 @@ video_modal: true
 
 <figure class="publication-cover"><img src="{{ '/assets/images/heritage-american-cover.png' | relative_url }}" alt="Pastel illustration of Christian heritage through preaching, writing, family worship, teaching, marriage, civic trust, and service."></figure>
 
-<section class="publication-section">
+<section class="publication-section publication-about">
   <h2>About the Publication</h2>
-  <div class="feature-grid">
-    <article>
-      <h3>Practical Civic Wisdom</h3>
-      <p>Advice for engaging neighbors, institutions, work, family, and public life without surrendering Christian conviction.</p>
-    </article>
-    <article>
-      <h3>Actionable Insight</h3>
-      <p>Readable essays that move from principle to practice, helping readers know what faithfulness can look like this week.</p>
-    </article>
-    <article>
-      <h3>Tips and Tools</h3>
-      <p>Simple resources for household order, Christian education, fellowship, stewardship, local service, and church life.</p>
-    </article>
+  <div class="publication-about__body">
+    <p>The Heritage American publishes practical civic wisdom for Christians who want to live faithfully in public life without surrendering Christian conviction. Its essays move from principle to practice with actionable insight for neighbors, institutions, work, family, education, stewardship, local service, and church life.</p>
+    <p class="publication-about__note">Practical advice. Informational insight. Useful tools for ordered households and faithful public life.</p>
   </div>
 </section>
 

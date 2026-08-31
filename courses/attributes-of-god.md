@@ -10,7 +10,7 @@ permalink: /courses/attributes-of-god/
 
 This course gathers a sequence of video lessons on the doctrine of God. Move through the lessons in order, taking notes on what each lesson teaches about God's being, works, names, perfections, and relation to his creatures.
 
-## Additional Reading
+## Related Reading
 
 These additional reading resources will help you get the most out of this course and equip you for shepherding your people.
 
