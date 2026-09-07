@@ -80,23 +80,7 @@ body_class: home
   </div>
 </section>
 
-<section class="section">
-  <div class="section__header">
-    <p class="eyebrow">Guides</p>
-    <h2>For family worship, homeschoolers, and lifelong learners.</h2>
-    <p class="section__intro">Practical paths for reading Scripture, using catechisms, teaching history at home, and forming habits of study across generations.</p>
-  </div>
-  <div class="guide-grid">
-    {% assign guides = site.guides | sort: "order" %}
-    {% for guide in guides limit: 3 %}
-      <a class="guide-card" href="{{ guide.url | relative_url }}">
-        <span>{{ guide.kicker }}</span>
-        <h3>{{ guide.title }}</h3>
-        <p>{{ guide.summary }}</p>
-      </a>
-    {% endfor %}
-  </div>
-</section>
+
 
 <section class="section section--split section--sources">
   <div>
