@@ -13,26 +13,15 @@
   </head>
   <body class="{{ page.body_class }}">
     <header class="site-header">
-      {% assign is_heritage_article = false %}
-      {% if page.collection == "heritage" %}
-        {% assign is_heritage_article = true %}
-      {% endif %}
-      <a class="brand" href="{% if is_heritage_article %}{{ '/heritage-american/' | relative_url }}{% else %}{{ '/' | relative_url }}{% endif %}">
+      <a class="brand" href="{{ '/' | relative_url }}">
         <span class="brand__mark">H</span>
-        <span>{% if is_heritage_article %}The Heritage American{% else %}The Haynes Institute{% endif %}</span>
+        <span>The Haynes Institute</span>
       </a>
       <nav class="site-nav" aria-label="Primary navigation">
-        {% if is_heritage_article %}
-          <a href="{{ '/' | relative_url }}">The Haynes Institute</a>
-          <a href="{{ '/heritage-american/' | relative_url }}">Publication Home</a>
-          <a href="{{ '/about/' | relative_url }}">About</a>
-        {% else %}
-          <a href="{{ '/resources/' | relative_url }}">Resources</a>
-          <a href="{{ '/files/' | relative_url }}">Biographies</a>
-          <a href="{{ '/courses/' | relative_url }}">Courses</a>
-          <a href="{{ '/heritage-american/' | relative_url }}">The Heritage American</a>
-          <a href="{{ '/about/' | relative_url }}">About</a>
-        {% endif %}
+        <a href="{{ '/resources/' | relative_url }}">Resources</a>
+        <a href="{{ '/files/' | relative_url }}">Biographies</a>
+        <a href="{{ '/courses/' | relative_url }}">Courses</a>
+        <a href="{{ '/about/' | relative_url }}">About</a>
       </nav>
     </header>
     <main class="site-main">

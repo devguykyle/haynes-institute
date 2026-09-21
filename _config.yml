@@ -13,9 +13,7 @@ collections:
   guides:
     output: true
     permalink: /guides/:name/
-  heritage:
-    output: true
-    permalink: /heritage-american/:name/
+
 
 defaults:
   - scope:
@@ -32,11 +30,7 @@ defaults:
       type: guides
     values:
       layout: page
-  - scope:
-      path: ""
-      type: heritage
-    values:
-      layout: page
+
 
 plugins:
   - jekyll-seo-tag
