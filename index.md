@@ -115,6 +115,11 @@ body_class: home
       <span class="home-timeline__date">1753</span>
     </a>
     <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
+      <span class="home-timeline__note">Phillis Wheatley's Poems on Various Subjects is published in London.</span>
+      <span class="home-timeline__bar" aria-hidden="true"></span>
+      <span class="home-timeline__date">1773</span>
+    </a>
+    <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
       <span class="home-timeline__note">The United States declares independence from Great Britain.</span>
       <span class="home-timeline__bar" aria-hidden="true"></span>
       <span class="home-timeline__date">1776</span>
@@ -125,6 +130,11 @@ body_class: home
       <span class="home-timeline__date">1786</span>
     </a>
     <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
+      <span class="home-timeline__note">First African Presbyterian Church is established in Philadelphia.</span>
+      <span class="home-timeline__bar" aria-hidden="true"></span>
+      <span class="home-timeline__date">1807</span>
+    </a>
+    <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
       <span class="home-timeline__note">Freedom's Journal begins publication in New York.</span>
       <span class="home-timeline__bar" aria-hidden="true"></span>
       <span class="home-timeline__date">1827</span>
@@ -133,6 +143,36 @@ body_class: home
       <span class="home-timeline__note">The New Hampshire Confession becomes an influential American Baptist confession.</span>
       <span class="home-timeline__bar" aria-hidden="true"></span>
       <span class="home-timeline__date">1833</span>
+    </a>
+    <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
+      <span class="home-timeline__note">Francis J. Grimke begins a life of Presbyterian preaching and theological writing.</span>
+      <span class="home-timeline__bar" aria-hidden="true"></span>
+      <span class="home-timeline__date">1850</span>
+    </a>
+    <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
+      <span class="home-timeline__note">W. Bishop Johnson later serves as pastor, editor, and National Baptist leader.</span>
+      <span class="home-timeline__bar" aria-hidden="true"></span>
+      <span class="home-timeline__date">1858</span>
+    </a>
+    <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
+      <span class="home-timeline__note">E. C. Morris and Henry Ossawa Tanner are born into the wider Protestant inheritance.</span>
+      <span class="home-timeline__bar" aria-hidden="true"></span>
+      <span class="home-timeline__date">1859</span>
+    </a>
+    <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
+      <span class="home-timeline__note">Henry L. McCrorey begins a long ministry in Presbyterian education.</span>
+      <span class="home-timeline__bar" aria-hidden="true"></span>
+      <span class="home-timeline__date">1863</span>
+    </a>
+    <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
+      <span class="home-timeline__note">William Henry Sheppard later serves as Presbyterian missionary and writer.</span>
+      <span class="home-timeline__bar" aria-hidden="true"></span>
+      <span class="home-timeline__date">1865</span>
+    </a>
+    <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
+      <span class="home-timeline__note">William Lloyd Imes begins a life of Presbyterian ministry, education, and writing.</span>
+      <span class="home-timeline__bar" aria-hidden="true"></span>
+      <span class="home-timeline__date">1889</span>
     </a>
     <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
       <span class="home-timeline__note">The National Baptist Convention is organized.</span>
