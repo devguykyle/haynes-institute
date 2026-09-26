@@ -70,6 +70,11 @@ body_class: home
       <span class="home-timeline__date">1620</span>
     </a>
     <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
+      <span class="home-timeline__note">William Tucker is baptized in English Virginia.</span>
+      <span class="home-timeline__bar" aria-hidden="true"></span>
+      <span class="home-timeline__date">1624</span>
+    </a>
+    <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
       <span class="home-timeline__note">Harvard College is founded for ministerial and intellectual life.</span>
       <span class="home-timeline__bar" aria-hidden="true"></span>
       <span class="home-timeline__date">1636</span>
