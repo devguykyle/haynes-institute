@@ -60,9 +60,44 @@ body_class: home
       <span class="home-timeline__date">1534</span>
     </a>
     <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
+      <span class="home-timeline__note">Protestant reform advances during the reign of Edward VI.</span>
+      <span class="home-timeline__bar" aria-hidden="true"></span>
+      <span class="home-timeline__date">1537</span>
+    </a>
+    <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
+      <span class="home-timeline__note">The Mayflower carries the Pilgrim community across the Atlantic.</span>
+      <span class="home-timeline__bar" aria-hidden="true"></span>
+      <span class="home-timeline__date">1620</span>
+    </a>
+    <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
+      <span class="home-timeline__note">Harvard College is founded for ministerial and intellectual life.</span>
+      <span class="home-timeline__bar" aria-hidden="true"></span>
+      <span class="home-timeline__date">1636</span>
+    </a>
+    <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
       <span class="home-timeline__note">The Westminster Confession of Faith is completed.</span>
       <span class="home-timeline__bar" aria-hidden="true"></span>
       <span class="home-timeline__date">1646</span>
+    </a>
+    <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
+      <span class="home-timeline__note">The Westminster Larger and Shorter Catechisms are completed.</span>
+      <span class="home-timeline__bar" aria-hidden="true"></span>
+      <span class="home-timeline__date">1647</span>
+    </a>
+    <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
+      <span class="home-timeline__note">English Congregationalists publish the Savoy Declaration.</span>
+      <span class="home-timeline__bar" aria-hidden="true"></span>
+      <span class="home-timeline__date">1658</span>
+    </a>
+    <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
+      <span class="home-timeline__note">The Great Ejection removes about two thousand nonconforming ministers.</span>
+      <span class="home-timeline__bar" aria-hidden="true"></span>
+      <span class="home-timeline__date">1662</span>
+    </a>
+    <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
+      <span class="home-timeline__note">Bunyan publishes The Pilgrim's Progress.</span>
+      <span class="home-timeline__bar" aria-hidden="true"></span>
+      <span class="home-timeline__date">1678</span>
     </a>
     <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
       <span class="home-timeline__note">Particular Baptists publish the Second London Baptist Confession.</span>
@@ -80,9 +115,19 @@ body_class: home
       <span class="home-timeline__date">1753</span>
     </a>
     <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
+      <span class="home-timeline__note">The United States declares independence from Great Britain.</span>
+      <span class="home-timeline__bar" aria-hidden="true"></span>
+      <span class="home-timeline__date">1776</span>
+    </a>
+    <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
       <span class="home-timeline__note">Jupiter Hammon addresses New Yorkers on Christian faith, conduct, liberty, and duty.</span>
       <span class="home-timeline__bar" aria-hidden="true"></span>
       <span class="home-timeline__date">1786</span>
+    </a>
+    <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
+      <span class="home-timeline__note">Freedom's Journal begins publication in New York.</span>
+      <span class="home-timeline__bar" aria-hidden="true"></span>
+      <span class="home-timeline__date">1827</span>
     </a>
     <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
       <span class="home-timeline__note">The New Hampshire Confession becomes an influential American Baptist confession.</span>
