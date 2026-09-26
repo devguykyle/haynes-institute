@@ -306,6 +306,115 @@ a {
   line-height: 1.72;
 }
 
+.home-timeline-section {
+  background: var(--soft-panel);
+  border-top: 1px solid var(--line);
+}
+
+.home-timeline-section .text-link {
+  display: block;
+  margin: 20px auto 0;
+  max-width: 1120px;
+}
+
+.home-timeline {
+  align-items: end;
+  display: flex;
+  gap: clamp(28px, 5vw, 72px);
+  margin: 30px auto 0;
+  max-width: 1120px;
+  min-height: 172px;
+  overflow-x: auto;
+  padding: 74px 4px 12px;
+  scrollbar-width: none;
+}
+
+.home-timeline::-webkit-scrollbar {
+  display: none;
+}
+
+.home-timeline__item {
+  align-items: center;
+  color: var(--muted);
+  display: inline-flex;
+  flex: 0 0 112px;
+  flex-direction: column;
+  min-height: 86px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+}
+
+.home-timeline__item::before {
+  background: var(--line);
+  content: "";
+  height: 2px;
+  left: calc(-50% - clamp(14px, 2.5vw, 36px));
+  position: absolute;
+  right: calc(50% + 8px);
+  top: 38px;
+}
+
+.home-timeline__item:first-child::before {
+  display: none;
+}
+
+.home-timeline__bar {
+  background: var(--muted);
+  display: block;
+  height: 42px;
+  transform-origin: bottom center;
+  transition: background 160ms ease, transform 160ms ease;
+  width: 3px;
+}
+
+.home-timeline__date {
+  display: block;
+  font-family: var(--serif);
+  font-size: 1.08rem;
+  font-weight: 700;
+  margin-top: 10px;
+  transition: color 160ms ease, transform 160ms ease;
+}
+
+.home-timeline__note {
+  bottom: calc(100% + 18px);
+  color: var(--green);
+  display: block;
+  font-size: 0.86rem;
+  font-weight: 700;
+  left: 50%;
+  line-height: 1.45;
+  opacity: 0;
+  position: absolute;
+  transform: translate(-50%, 8px);
+  transition: opacity 140ms ease, transform 140ms ease;
+  width: 220px;
+}
+
+.home-timeline__item:hover,
+.home-timeline__item:focus-visible {
+  color: var(--ink);
+  outline: none;
+}
+
+.home-timeline__item:hover .home-timeline__bar,
+.home-timeline__item:focus-visible .home-timeline__bar {
+  background: var(--green);
+  transform: scaleY(1.2) scaleX(1.6);
+}
+
+.home-timeline__item:hover .home-timeline__date,
+.home-timeline__item:focus-visible .home-timeline__date {
+  color: var(--green);
+  transform: scale(1.08);
+}
+
+.home-timeline__item:hover .home-timeline__note,
+.home-timeline__item:focus-visible .home-timeline__note {
+  opacity: 1;
+  transform: translate(-50%, 0);
+}
 .section--split {
   align-items: start;
   background: var(--soft-panel);

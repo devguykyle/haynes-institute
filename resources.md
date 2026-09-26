@@ -30,12 +30,25 @@ Browse the first shelf of sources and historical entries. Each page can grow int
     <p>Find catechisms, confessions, classic devotional works, apologetics resources, and pastoral ministry texts.</p>
     <a class="text-link" href="{{ '/books/' | relative_url }}">Browse books</a>
   </div>
+
+  <div class="resource-callout resource-callout--light">
+    <span>Timeline</span>
+    <h2>English and American Reformed History</h2>
+    <p>Trace selected people, confessions, institutions, and events from the English Reformation to modern Reformed teachers.</p>
+    <a class="text-link" href="{{ '/reformed-history-timeline/' | relative_url }}">View timeline</a>
+  </div>
 </div>
 
 <div class="resource-index resource-index--grid">
   {% assign resources = site.resources | sort: "title" %}
   {% for resource in resources %}
-    <a class="resource-index__item" href="{{ resource.url | relative_url }}">
+    {% assign resource_link = resource.url %}
+    {% if resource.title == "Great Men and Their Deeds" %}
+      {% assign resource_link = '/files/' %}
+    {% elsif resource.title == "Lemuel Haynes' Sermons" %}
+      {% assign resource_link = '/lemuel-haynes-works/' %}
+    {% endif %}
+    <a class="resource-index__item" href="{{ resource_link | relative_url }}">
       <span>{{ resource.category }}</span>
       {% assign badge_name = resource.author %}
       {% if badge_name == "The Haynes Institute" and resource.people %}

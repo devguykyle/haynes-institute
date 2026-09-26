@@ -48,6 +48,65 @@ body_class: home
   </div>
 </section>
 
+<section class="section home-timeline-section">
+  <div class="section__header">
+    <p class="eyebrow">Historical Bearings</p>
+    <h2>A brief path through Reformed history.</h2>
+  </div>
+  <div class="home-timeline" aria-label="Selected Reformed history timeline">
+    <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
+      <span class="home-timeline__note">England breaks ecclesiastically with Rome through the Act of Supremacy.</span>
+      <span class="home-timeline__bar" aria-hidden="true"></span>
+      <span class="home-timeline__date">1534</span>
+    </a>
+    <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
+      <span class="home-timeline__note">The Westminster Confession of Faith is completed.</span>
+      <span class="home-timeline__bar" aria-hidden="true"></span>
+      <span class="home-timeline__date">1646</span>
+    </a>
+    <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
+      <span class="home-timeline__note">Particular Baptists publish the Second London Baptist Confession.</span>
+      <span class="home-timeline__bar" aria-hidden="true"></span>
+      <span class="home-timeline__date">1689</span>
+    </a>
+    <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
+      <span class="home-timeline__note">Jonathan Edwards preaches Sinners in the Hands of an Angry God.</span>
+      <span class="home-timeline__bar" aria-hidden="true"></span>
+      <span class="home-timeline__date">1741</span>
+    </a>
+    <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
+      <span class="home-timeline__note">Lemuel Haynes serves as a Congregational minister and Calvinistic theologian.</span>
+      <span class="home-timeline__bar" aria-hidden="true"></span>
+      <span class="home-timeline__date">1753</span>
+    </a>
+    <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
+      <span class="home-timeline__note">Jupiter Hammon addresses New Yorkers on Christian faith, conduct, liberty, and duty.</span>
+      <span class="home-timeline__bar" aria-hidden="true"></span>
+      <span class="home-timeline__date">1786</span>
+    </a>
+    <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
+      <span class="home-timeline__note">The New Hampshire Confession becomes an influential American Baptist confession.</span>
+      <span class="home-timeline__bar" aria-hidden="true"></span>
+      <span class="home-timeline__date">1833</span>
+    </a>
+    <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
+      <span class="home-timeline__note">The National Baptist Convention is organized.</span>
+      <span class="home-timeline__bar" aria-hidden="true"></span>
+      <span class="home-timeline__date">1895</span>
+    </a>
+    <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
+      <span class="home-timeline__note">National Baptist literature publishes doctrinal treatments of regeneration and related doctrines.</span>
+      <span class="home-timeline__bar" aria-hidden="true"></span>
+      <span class="home-timeline__date">1900</span>
+    </a>
+    <a class="home-timeline__item" href="{{ '/reformed-history-timeline/' | relative_url }}">
+      <span class="home-timeline__note">R. C. Sproul popularizes historic Reformed theology for modern audiences.</span>
+      <span class="home-timeline__bar" aria-hidden="true"></span>
+      <span class="home-timeline__date">1939</span>
+    </a>
+  </div>
+  <a class="text-link" href="{{ '/reformed-history-timeline/' | relative_url }}">Open the full timeline</a>
+</section>
 <section class="section section--articles">
   <div class="section__header">
     <p class="eyebrow">Featured Articles</p>
