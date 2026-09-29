@@ -6,18 +6,18 @@ body_class: home
 <section class="hero">
   <div class="hero__content">
     <p class="eyebrow">New from The Haynes Institute</p>
-    <h1>Begin with the Attributes of God.</h1>
-    <p class="hero__lead">A new course for recovering the faith, ordering the household, and building the future in the knowledge of God.</p>
+    <h1>The Exaltation of Christ and the Subjugation of His Enemies.</h1>
+    <p class="hero__lead">Charles B. W. Gordon preaches Psalm 110:1 on Christ's exaltation, his victory over sin and Satan, and the Father's subjugation of Christ's enemies.</p>
     <div class="hero__actions">
-      <a class="button button--primary" href="{{ '/courses/attributes-of-god/' | relative_url }}">Start the Course</a>
+      <a class="button button--primary" href="{{ '/resources/charles-bw-gordon-exaltation-of-christ/' | relative_url }}">Read the Sermon</a>
       <a class="button button--secondary" href="{{ '/resources/' | relative_url }}">Browse Resources</a>
     </div>
   </div>
-  <aside class="hero__feature" aria-label="Featured course">
-    <span>New Course</span>
-    <h2>Attributes of God</h2>
-    <p>Begin a steady study of God's being, works, names, perfections, and relation to his creatures.</p>
-    <a class="text-link" href="{{ '/courses/attributes-of-god/' | relative_url }}">Start today</a>
+  <aside class="hero__feature" aria-label="Featured sermon">
+    <span>Sermon</span>
+    <h2>Psalm 110 and the Triumph of Christ</h2>
+    <p>Gordon sets Christ before the reader as the risen King whose enemies are made his footstool.</p>
+    <a class="text-link" href="{{ '/resources/charles-bw-gordon-exaltation-of-christ/' | relative_url }}">Read now</a>
   </aside>
 </section>
 
