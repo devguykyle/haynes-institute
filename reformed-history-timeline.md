@@ -14,8 +14,12 @@ This timeline gathers selected people, confessions, institutions, and events tha
 | Date | Person / Event | Significance |
 |---|---|---|
 | **1491-1547** | **Henry VIII** | English king under whom England broke ecclesiastically with Rome. |
+| **1517** | **Luther's Ninety-Five Theses** | Martin Luther's protest against indulgences becomes one of the signal events of the Protestant Reformation. |
+| **1518** | **Henrique of Kongo becomes a bishop** | Henrique, son of Afonso I of Kongo, is consecrated as a bishop, placing Kongo within early modern Christian ecclesiastical history. |
 | **1534** | **Act of Supremacy / English break with Rome** | Parliament recognizes the king as supreme head of the Church of England. This is not yet the mature English Reformation, but it creates the institutional break in which it develops. |
 | **1537-1553** | **Edward VI** | Protestant reform advances considerably during Edward's reign, especially through Cranmer and other reformers. |
+| **1550s** | **Calvin ministers in Geneva** | John Calvin's Genevan ministry shapes Reformed theology, preaching, church order, and pastoral formation. |
+| **1550s** | **Juan Latino and Vicente Lusitano** | Juan Latino teaches in Granada, while Vicente Lusitano composes sacred music and later crosses into Protestantism. |
 | **c. 1535-1603** | **Thomas Cartwright** | Cambridge theologian and leading advocate of Presbyterian and Puritan church reform in England. |
 | **1570s-1590s** | **Cartwright and English Presbyterian reform** | Cartwright's advocacy of further reform brings deprivation, controversy, exile and eventually imprisonment. |
 | **1588-1649** | **John Winthrop** | English Puritan who becomes a leading founder and governor of Massachusetts Bay. |
@@ -36,6 +40,8 @@ This timeline gathers selected people, confessions, institutions, and events tha
 | **1631** | **John Eliot begins ministry at Roxbury** | Eliot begins the pastorate from which his missionary and translation work develops. |
 | **1636** | **Harvard College founded** | Massachusetts establishes the college that becomes central to New England ministerial and intellectual life. |
 | **1639-1723** | **Increase Mather** | Puritan minister, theologian, author and Harvard president. |
+| **1640s** | **Westminster Assembly meets in London** | The Assembly gathers divines in London for the doctrinal and ecclesiastical work that produces the Westminster standards. |
+| **1643** | **Dom Miguel de Castro in the Dutch Republic** | Dom Miguel de Castro, a Catholic African diplomat from Kongo, negotiates in the Dutch Republic. |
 | **1643-1649** | **Westminster Assembly** | English and Scottish divines undertake the work that produces the great Westminster standards. |
 | **1646** | **Westminster Confession of Faith** | Westminster's principal confession is completed. |
 | **1647** | **Westminster Larger and Shorter Catechisms** | The Assembly completes its catechetical standards. |
