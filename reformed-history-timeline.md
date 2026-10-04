@@ -30,6 +30,7 @@ This timeline gathers selected people, confessions, institutions, and events tha
 | **1608** | **Scrooby congregation flees England** | The Separatists escape persecution and relocate to the Netherlands. |
 | **1609** | **Pilgrim community settles at Leiden** | The future Plymouth community establishes itself at Leiden, not yet in America. |
 | **1612-1672** | **Anne Bradstreet** | Puritan poet who becomes the first published poet of England's North American colonies. |
+| **1619** | **The White Lion obtains Africans from the São João Bautista** | The White Lion obtains Roman Catholic Africans from the Portuguese slave ship São João Bautista before sailing toward English Virginia. |
 | **1619** | **First documented Africans arrive in Virginia** | "Twenty and odd" Africans arrive at Point Comfort in English Virginia. |
 | **1620** | ***Mayflower* voyage** | The Leiden/Pilgrim community sends settlers across the Atlantic. |
 | **Nov. 1620** | **Mayflower Compact** | The settlers covenant to form a civil body politic and submit to laws enacted for the general good. |
