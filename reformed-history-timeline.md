@@ -14,23 +14,12 @@ This timeline gathers selected people, confessions, institutions, and events tha
 | Date | Person / Event | Significance |
 |---|---|---|
 | **1491-1547** | **Henry VIII** | English king under whom England broke ecclesiastically with Rome. |
-| **1517** | **Luther's Ninety-Five Theses** | Martin Luther's protest against indulgences becomes one of the signal events of the Protestant Reformation. |
-| **1518** | **Henrique of Kongo becomes a bishop** | Henrique, son of Afonso I of Kongo, is consecrated as a bishop, placing Kongo within early modern Christian ecclesiastical history. |
 | **1534** | **Act of Supremacy / English break with Rome** | Parliament recognizes the king as supreme head of the Church of England. This is not yet the mature English Reformation, but it creates the institutional break in which it develops. |
 | **1537-1553** | **Edward VI** | Protestant reform advances considerably during Edward's reign, especially through Cranmer and other reformers. |
-| **1550s** | **Calvin ministers in Geneva** | John Calvin's Genevan ministry shapes Reformed theology, preaching, church order, and pastoral formation. |
-| **1550s** | **Juan Latino and Vicente Lusitano** | Juan Latino teaches in Granada, while Vicente Lusitano composes sacred music and later crosses into Protestantism. |
-| **c. 1535-1603** | **Thomas Cartwright** | Cambridge theologian and leading advocate of Presbyterian and Puritan church reform in England. |
-| **1570s-1590s** | **Cartwright and English Presbyterian reform** | Cartwright's advocacy of further reform brings deprivation, controversy, exile and eventually imprisonment. |
-| **1588-1649** | **John Winthrop** | English Puritan who becomes a leading founder and governor of Massachusetts Bay. |
-| **1590-1657** | **William Bradford** | Separatist, *Mayflower* passenger, governor of Plymouth Colony and author of *Of Plymouth Plantation*. |
-| **1604-1690** | **John Eliot** | Puritan minister, missionary and translator of the Bible into the Massachusett language. |
 | **1606** | **Scrooby congregation forms** | Separatist congregation associated with John Robinson, William Brewster and William Bradford. |
 | **1607** | **Jamestown founded** | First permanent English settlement in North America. |
 | **1608** | **Scrooby congregation flees England** | The Separatists escape persecution and relocate to the Netherlands. |
 | **1609** | **Pilgrim community settles at Leiden** | The future Plymouth community establishes itself at Leiden, not yet in America. |
-| **1612-1672** | **Anne Bradstreet** | Puritan poet who becomes the first published poet of England's North American colonies. |
-| **1619** | **The White Lion obtains Africans from the São João Bautista** | The White Lion obtains Roman Catholic Africans from the Portuguese slave ship São João Bautista before sailing toward English Virginia. |
 | **1619** | **First documented Africans arrive in Virginia** | "Twenty and odd" Africans arrive at Point Comfort in English Virginia. |
 | **1620** | ***Mayflower* voyage** | The Leiden/Pilgrim community sends settlers across the Atlantic. |
 | **Nov. 1620** | **Mayflower Compact** | The settlers covenant to form a civil body politic and submit to laws enacted for the general good. |
@@ -41,20 +30,12 @@ This timeline gathers selected people, confessions, institutions, and events tha
 | **1631** | **John Eliot begins ministry at Roxbury** | Eliot begins the pastorate from which his missionary and translation work develops. |
 | **1636** | **Harvard College founded** | Massachusetts establishes the college that becomes central to New England ministerial and intellectual life. |
 | **1639-1723** | **Increase Mather** | Puritan minister, theologian, author and Harvard president. |
-| **1640s** | **Westminster Assembly meets in London** | The Assembly gathers divines in London for the doctrinal and ecclesiastical work that produces the Westminster standards. |
-| **1643** | **Dom Miguel de Castro in the Dutch Republic** | Dom Miguel de Castro, a Catholic African diplomat from Kongo, negotiates in the Dutch Republic. |
-| **1643-1649** | **Westminster Assembly** | English and Scottish divines undertake the work that produces the great Westminster standards. |
 | **1646** | **Westminster Confession of Faith** | Westminster's principal confession is completed. |
 | **1647** | **Westminster Larger and Shorter Catechisms** | The Assembly completes its catechetical standards. |
 | **1658** | **Savoy Declaration** | English Congregationalists adapt Westminster's Reformed theology to Congregational church government. |
-| **1616-1683** | **John Owen** | English Puritan, Congregationalist, and one of the major Reformed theologians of the seventeenth century. |
 | **1662** | **Great Ejection** | Around two thousand ministers refuse conformity under the restored Church of England and leave their livings. |
 | **1663** | **Eliot's Algonquian Bible** | Complete Bible translated into Massachusett and printed at Cambridge, the first complete Bible printed in the Western Hemisphere. |
 | **1663-1728** | **Cotton Mather** | New England Congregational minister, theologian, historian and prolific author. |
-| **1628-1688** | **John Bunyan** | English Nonconformist preacher and writer. |
-| **1678** | ***The Pilgrim's Progress*** | Bunyan publishes one of the most influential works of Protestant imaginative literature. |
-| **1623-1687** | **Francis Turretin** | Genevan Reformed theologian and leading representative of Reformed scholasticism. |
-| **1679-1685** | ***Institutes of Elenctic Theology*** | Turretin publishes his major theological work in three installments. |
 | **1689** | **Second London Baptist Confession** | Particular Baptists publish the famous 1689 edition of their confession, substantially sharing the Reformed theological architecture of Westminster and Savoy while expressing Baptist ecclesiology. |
 | **1703-1758** | **Jonathan Edwards** | New England Congregational minister, revival preacher and major Reformed theologian. |
 | **1711-c. 1786** | **Jupiter Hammon** | Enslaved New Yorker, Christian poet and one of the earliest published Black American writers. |
